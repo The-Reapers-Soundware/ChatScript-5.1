@@ -1,0 +1,1 @@
+﻿Start: user:ha bot:harry ip: rand:2929 (~introductions) 0 ==> Welcome to ChatScript.  When:Mar05'15-20:38:19 Version:5.1 Build0:Feb01'15-15:07:58 Build1:Feb01'15-15:08:07 0:Mar05'15-20:38:15 F:0 P:0 Why:~introductions.2.0.~control.0.0 

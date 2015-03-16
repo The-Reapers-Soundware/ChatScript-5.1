@@ -1,0 +1,58 @@
+﻿Command: :retry
+Respond: user: bot:omni ip: (~introductions) 1   :retry ==>   When:Jan31'15-15:27:43 
+Command: :word January_1
+
+January_1 (unknown word):
+  Properties:  Implied: NOUN NOUN_PROPER_SINGULAR 
+  SystemFlags: 
+  ParseBits:   
+  InternalBits: 
+  Other:     canonical: January_1 
+  Direct Sets: 
+  Facts:
+Command: :prepare jan 1 1930 to Jan 3 1930
+TokenControl: DO_SUBSTITUTE_SYSTEM DO_NUMBER_MERGE DO_PROPERNAME_MERGE DO_DATE_MERGE DO_SPELLCHECK DO_INTERJECTION_SPLITTING DO_PARSE STRICT_CASING 
+
+
+Original User Input: jan 1 1930 to Jan 3 1930
+Tokenized into: jan  1  1930  to  Jan  3  1930  
+Substituted (substitutes ) into: January  1  1930  to  January  3  1930  
+Date-merged: January_1_1930  to  January  3  1930  
+Actual input used: January_1_1930  to  January  3  1930  
+
+Xref: 1:January_1_1930   2:to >1 o5   3:January >5   4:3 >5   5:1930 >2   
+Fragments: 1:January_1_1930   2:to p1   3:January p1   4:3 p1   5:1930 p1   
+badparse Tagged POS 5 words: January_1_1930 (MAINSUBJECT Noun_proper_singular)  to (<Phrase ADJECTIVAL Preposition)  January (Idiom)  3 (Idiom)  1930 (OBJECT2 Noun_proper_singular Phrase>)  
+  MainSentence: Subj: January_1_1930 [p1]   PRESENT 
+Phrase 1 : to January_3_1930
+
+
+Concepts: 
+
+1: January_1_1930 raw=  +~noun(1)  +~noun_proper_singular(1)  +~singular(1)  +~normal_noun_bits(1)  +~noun_bits(1)  +~mainsubject(1)  //  +January_1_1930(1)  +~timeword(1)  +T~timerange (1) 
+1: January_1_1930 canonical=  //   +1930(1)  +~propername(1) 
+
+2: to raw=  +~lowercase_title(2)  +~preposition(2)  +~kindergarten(2)  +~locationword(2) 
+.  +~locatedentity(2)  +~there(2)  +~phrase(2-5) +to(2)  +~directionpreposition(2)  +~spacepreposition(2)  +~prepositionroot(2)  +~focus(2) 
+.  +~directions(2)  // 
+2: to canonical=  //  
+
+3: January raw=  +~idiom(3)  //  +January(3)  +~time_reference(3)  +~time_instant(3)  +~processes(3)  +~nounlist(3)  +~month_names(3)  +~timeword(3) 
+.  +T~timerange (3) 
+3: January canonical=  //   +~propername(3) 
+
+4: 3 raw=  +~idiom(3-4) +3(4)  // 
+4: 3 canonical=  //  +~number(4)  
+
+5: 1930 raw=  +~noun(3-5) +~noun_proper_singular(3-5) +~singular(3-5) +~normal_noun_bits(3-5) +~noun_bits(3-5) +~timeword(3-5)
+.  +T~timerange (3-5) +~object2(3-5) +~sentenceend(3-5) +~yearnumber(5)  +~number(5)  +1930(5)  +~timeword(5)  // 
+5: 1930 canonical=  //  
+
+    sequences=
+ +~dateinfo(3-5)After parse TokenFlags: DO_SUBSTITUTES PRESENT USERINPUT FAULTY_PARSE NOT_SENTENCE 
+
+
+. . Topic: ~xquestion linear Statements: 
+. . try s: QUESTION ( !~interjections ) ^^if ( %length  0 ) 00q{ ^end ( TOPIC ) } 004 ^refine ( ) 
+. . **Match: s: QUESTION ( !~interjections ) ^^if ( %length  0 ) 00q{ ^end ( TOPIC ) } 004 ^refine ( ) 
+. . Result: NOPROBLEM Topic: ~xquestion 

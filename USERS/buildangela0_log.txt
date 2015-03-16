@@ -1,0 +1,3163 @@
+﻿
+----Reading file functions.top
+Reading outputmacro: ^callback
+Reading outputmacro: ^popcurrenttopic
+Reading outputmacro: ^emptytext
+Reading outputmacro: ^convertgesture
+Reading outputmacro: ^forceapioutput
+Reading patternmacro: ^notgestureinput
+Reading patternmacro: ^gestureinput
+Reading outputmacro: ^opennotes
+Reading outputmacro: ^singygm
+Reading outputmacro: ^servecookie
+Reading outputmacro: ^beep
+Reading outputmacro: ^buygold
+Reading outputmacro: ^purchasegift
+Reading outputmacro: ^flashlight
+Reading outputmacro: ^devicevibrate
+Reading outputmacro: ^notestarttopic
+Reading outputmacro: ^invoketopic
+Reading outputmacro: ^becomeangry
+Reading outputmacro: ^reactangry
+Reading outputmacro: ^continueintopic
+Reading outputmacro: ^gathertopics
+Reading outputmacro: ^facebook
+Reading outputmacro: ^not_male
+Reading outputmacro: ^not_female
+Reading outputmacro: ^clearemotion
+Reading outputmacro: ^happy
+Reading outputmacro: ^angry
+Reading outputmacro: ^gesture
+Reading outputmacro: ^calltopic
+Reading outputmacro: ^stdend
+Reading outputmacro: ^stdstoryend
+Reading outputmacro: ^commaname
+Reading outputmacro: ^namecomma
+Reading outputmacro: ^overlapcalltopic
+Reading outputmacro: ^calltopicfromwithin
+Reading tablemacro: ^facebookname
+Reading tablemacro: ^secondkeys
+Reading tablemacro: ^prioritytopic
+Reading tablemacro: ^determiner
+Reading tablemacro: ^adtopic
+Reading tablemacro: ^story
+Reading outputmacro: ^return_if_from
+Reading patternmacro: ^fresh
+Reading patternmacro: ^stdblock
+Reading patternmacro: ^ageblock
+Reading patternmacro: ^ageok
+Reading outputmacro: ^stdexit
+Reading outputmacro: ^ageexit
+Reading outputmacro: ^stddrop
+Reading patternmacro: ^stdstoryblock
+Reading outputmacro: ^stdstoryexit
+Reading outputmacro: ^fulltopicreset
+Reading outputmacro: ^forceaccess
+Reading outputmacro: ^storyrespond
+Reading outputmacro: ^callstory
+Reading outputmacro: ^callstoryonce
+Reading patternmacro: ^teststory
+Reading patternmacro: ^accessstory
+Reading outputmacro: ^stdstorynext
+Reading outputmacro: ^dostory
+Reading outputmacro: ^compute_day
+Reading outputmacro: ^compute_month
+Reading outputmacro: ^favoritetable
+Reading outputmacro: ^hatetable
+Reading outputmacro: ^howoftentable
+Reading outputmacro: ^doyoutable
+Reading patternmacro: ^url_for
+Reading outputmacro: ^abstract_facts
+Reading outputmacro: ^compute_letter
+Reading outputmacro: ^equalvoquery
+Reading outputmacro: ^usename
+Reading outputmacro: ^equalsvquery
+Reading outputmacro: ^equalsoquery
+Reading outputmacro: ^processnoun
+Reading outputmacro: ^travel
+Reading outputmacro: ^showfavorite
+Reading outputmacro: ^randomchoice
+Reading patternmacro: ^youdothis
+Reading patternmacro: ^referto
+Reading outputmacro: ^showfact
+Reading outputmacro: ^showfacts
+Reading patternmacro: ^like
+Reading patternmacro: ^use
+Reading patternmacro: ^isit
+Reading patternmacro: ^haspet
+Reading patternmacro: ^ishaircolor
+Reading patternmacro: ^isweight
+Reading patternmacro: ^isheight
+Reading patternmacro: ^iseyecolor
+Reading patternmacro: ^phonenumber
+Reading patternmacro: ^queryforsubject
+Reading patternmacro: ^where_be
+Reading patternmacro: ^list_limit
+Reading outputmacro: ^generate_first_instance
+Reading outputmacro: ^generate_last_instance
+Reading patternmacro: ^relationshipto
+Reading patternmacro: ^howmeet
+Reading patternmacro: ^whereborn
+Reading patternmacro: ^whatwork
+Reading patternmacro: ^workfor
+Reading patternmacro: ^howold
+Reading patternmacro: ^whatgender
+Reading patternmacro: ^know_about
+Reading patternmacro: ^name_arbitrary_xxx
+Reading outputmacro: ^name_arbitrary_xxx_answer
+Reading patternmacro: ^what_is_name
+Reading patternmacro: ^have_a_job_xxx
+Reading patternmacro: ^want_you_go_xxx
+Reading patternmacro: ^do_you_like
+Reading patternmacro: ^queryforobject
+Reading outputmacro: ^map
+Reading patternmacro: ^what_is_your_favorite
+
+>>Reading folder RAWDATA/ONTOLOGY/
+
+----Reading file adjectivehierarchy.top
+Reading concept ~sense_hear
+Reading concept ~sense_smell
+Reading concept ~sense_taste
+Reading concept ~sense_touch
+Reading concept ~ability_adjectives
+Reading concept ~adjectives
+Reading concept ~age_adjectives
+Reading concept ~animation_adjectives
+Reading concept ~appearance
+Reading concept ~appearance_adjectives
+Reading concept ~bad_appearance
+Reading concept ~bad_intelligence_adjectives
+Reading concept ~bad_quality_adjectives
+Reading concept ~body_light_adjectives
+Reading concept ~body_heavy_adjectives
+Reading concept ~body_weight_adjectives
+Reading concept ~character_trait_adjectives
+Reading concept ~chemical_properties_adjectives
+Reading concept ~cleanliness_adjectives
+Reading concept ~cognition_adjectives
+Reading concept ~color_adjectives
+Reading concept ~communication_adjectives
+Reading concept ~comparison_adjectives
+Reading concept ~constitution_adjectives
+Reading concept ~containment_adjectives
+Reading concept ~density_adjectives
+Reading concept ~enablement_adjectives
+Reading concept ~economic_adjectives
+Reading concept ~energy_adjectives
+Reading concept ~esthetic_adjectives
+Reading concept ~evaluation_adjectives
+Reading concept ~few
+Reading concept ~functionality_adjectives
+Reading concept ~gas_adjectives
+Reading concept ~gender_adjectives
+Reading concept ~good_appearance
+Reading concept ~good_intelligence_adjectives
+Reading concept ~good_quality_adjectives
+Reading concept ~hardness_adjectives
+Reading concept ~health_adjectives
+Reading concept ~height_adjectives
+Reading concept ~insult_psychology_adjectives
+Reading concept ~intelligence_adjectives
+Reading concept ~intensifier_adjectives
+Reading concept ~liquids_adjectives
+Reading concept ~living_properties_adjectives
+Reading concept ~locational_adjectives
+Reading concept ~mass_adjectives
+Reading concept ~materials_adjectives
+Reading concept ~moisture_adjectives
+Reading concept ~motion_adjectives
+Reading concept ~much
+Reading concept ~normalized_adjectives
+Reading concept ~odor_adjectives
+Reading concept ~opinion_adjectives
+Reading concept ~orientation_adjectives
+Reading concept ~origin_adjectives
+Reading concept ~perception_adjectives
+Reading concept ~permission_adjectives
+Reading concept ~physical_properties_adjectives
+Reading concept ~psychology_adjectives
+Reading concept ~quantity_adjectives
+Reading concept ~relational_adjectives
+Reading concept ~sensation_adjectives
+Reading concept ~shape_adjectives
+Reading concept ~size_adjectives
+Reading concept ~oversize_adjectives
+Reading concept ~undersize_adjectives
+Reading concept ~social_adjectives
+Reading concept ~solids_adjectives
+Reading concept ~sound_adjectives
+Reading concept ~speed_adjectives
+Reading concept ~states_of_matter_adjectives
+Reading concept ~taste_adjectives
+Reading concept ~temperature_adjectives
+Reading concept ~texture_adjectives
+Reading concept ~time_adjectives
+Reading concept ~transition_adjectives
+Reading concept ~weather_adjectives
+Reading concept ~when_adjectives
+
+----Reading file adverbhierarchy.top
+Reading concept ~adverbs
+Reading concept ~always
+Reading concept ~causal_adverbs
+Reading concept ~certainty_adverbs
+Reading concept ~commenting_adverbs
+Reading concept ~comparative_degree_adverbs
+Reading concept ~comparative_manner_adverbs
+Reading concept ~comparison_adverbs
+Reading concept ~condition_adverbs
+Reading concept ~conjunctive_adverbs
+Reading concept ~degree_adverbs
+Reading concept ~duration_adverbs
+Reading concept ~explanatory_adverbs
+Reading concept ~extent_adverbs
+Reading concept ~frequency_adverbs
+Reading concept ~how_adverbs
+Reading concept ~inversion_adverbs
+Reading concept ~never
+Reading concept ~often
+Reading concept ~place_adverbs
+Reading concept ~purpose_adverbs
+Reading concept ~question_adverbs
+Reading concept ~rarely
+Reading concept ~result_adverbs
+Reading concept ~sequence_adverbs
+Reading concept ~supposition_adverbs
+Reading concept ~time_adverbs
+Reading concept ~viewpoint_adverbs
+Reading concept ~when_adverbs
+Reading concept ~negative_adverb_starter
+
+----Reading file affect.top
+Reading concept ~badness
+*** Warning- line 2 of affect.top: hinkey is not a known word. Is it misspelled?
+Reading concept ~weakbadness
+Reading concept ~strongbadness
+*** Warning- line 133 of affect.top: fraudster is not a known word. Is it misspelled?
+*** Warning- line 133 of affect.top: greenwash is not a known word. Is it misspelled?
+*** Warning- line 133 of affect.top: ashame is not a known word. Is it misspelled?
+*** Warning- line 133 of affect.top: n00b is not a known word. Is it misspelled?
+Reading concept ~goodness
+*** Warning- line 236 of affect.top: multi is not a known word. Is it misspelled?
+Reading concept ~weakgoodness
+Reading concept ~stronggoodness
+*** Warning- line 279 of affect.top: lmao is not a known word. Is it misspelled?
+*** Warning- line 279 of affect.top: lmfao is not a known word. Is it misspelled?
+*** Warning- line 279 of affect.top: roflcopter is not a known word. Is it misspelled?
+*** Warning- line 279 of affect.top: roflmao is not a known word. Is it misspelled?
+*** Warning- line 279 of affect.top: rotfl is not a known word. Is it misspelled?
+*** Warning- line 279 of affect.top: rotflmfao is not a known word. Is it misspelled?
+*** Warning- line 279 of affect.top: rotflol is not a known word. Is it misspelled?
+
+----Reading file concepts.top
+Reading concept ~plural
+Reading concept ~singular
+Reading concept ~languages
+Reading concept ~athlete
+Reading concept ~author
+Reading concept ~book
+Reading concept ~plays
+Reading concept ~actor
+Reading concept ~actress
+Reading concept ~movie
+Reading concept ~directory
+Reading concept ~city
+Reading concept ~continent
+Reading concept ~country
+Reading concept ~galaxy
+Reading concept ~island
+Reading concept ~lake
+Reading concept ~naregion
+Reading concept ~moon
+Reading concept ~museum
+Reading concept ~ocean
+Reading concept ~river
+Reading concept ~sea
+Reading concept ~star_system
+Reading concept ~landmark
+Reading concept ~europealliance
+Reading concept ~asiaregion
+Reading concept ~procsubcountry
+Reading concept ~gulf
+Reading concept ~uksubcountry
+Reading concept ~pacificregion
+Reading concept ~earthregion
+Reading concept ~caribbeanregion
+Reading concept ~terrorist
+Reading concept ~dictator
+Reading concept ~murderer
+Reading concept ~deity
+Reading concept ~rich_person
+Reading concept ~explorer
+Reading concept ~painter
+Reading concept ~economist
+Reading concept ~sculptor
+Reading concept ~clown
+Reading concept ~poem
+Reading concept ~religious_leader
+Reading concept ~golfer
+Reading concept ~singer
+Reading concept ~glassblower
+Reading concept ~director
+Reading concept ~ettiquette_expert
+Reading concept ~humanitarian
+Reading concept ~psychologist
+Reading concept ~psychiatrist
+Reading concept ~nurse
+Reading concept ~abolitionist
+Reading concept ~missionary
+Reading concept ~aviatrix
+Reading concept ~business_person
+Reading concept ~organization
+Reading concept ~musician
+Reading concept ~band
+Reading concept ~store
+Reading concept ~store_type
+Reading concept ~notpropername
+Reading concept ~than
+Reading concept ~problem
+Reading concept ~food_container
+Reading concept ~money_container
+Reading concept ~liquid_container
+*** Warning- line 74 of concepts.top: theromos is not a known word. Is it misspelled?
+Reading concept ~body_container
+Reading concept ~accessibility_words
+Reading concept ~acidlist
+Reading concept ~acquire_imperatives
+Reading concept ~acting
+Reading concept ~addition
+Reading concept ~ads
+Reading concept ~adult
+Reading concept ~advanced_degrees
+Reading concept ~aerial_sports
+Reading concept ~aged_adults
+*** Warning- line 87 of concepts.top: grownupadult is not a known word. Is it misspelled?
+Reading concept ~age_gender
+Reading concept ~age_words
+Reading concept ~aged_children
+Reading concept ~agenoun
+Reading concept ~age_reference
+Reading concept ~aids_words
+Reading concept ~air
+Reading concept ~alarm
+Reading concept ~alcoholic_beverage
+Reading concept ~all_shields
+Reading concept ~americanindian
+Reading concept ~amplifiers
+Reading concept ~angryevent
+Reading concept ~animal_kingdoms
+Reading concept ~animal_product
+Reading concept ~animals
+Reading concept ~animals_generic
+Reading concept ~animate_thing
+Reading concept ~appliance_store
+Reading concept ~appliances
+Reading concept ~architect
+Reading concept ~architecture_styles
+Reading concept ~areafield
+Reading concept ~art_gallery
+Reading concept ~art_history
+Reading concept ~art_kinds
+Reading concept ~art_subjects
+Reading concept ~art_museum
+Reading concept ~art_stuff
+Reading concept ~artifacts
+Reading concept ~artist
+Reading concept ~arts
+Reading concept ~assassin
+Reading concept ~astrology_signs
+Reading concept ~astronautics
+Reading concept ~attaches
+Reading concept ~attendant
+Reading concept ~attributes
+Reading concept ~authenticity_words
+Reading concept ~auto_dealer
+Reading concept ~auto_parts_store
+Reading concept ~awards
+Reading concept ~bad_weather
+Reading concept ~baked_goods
+Reading concept ~bakery
+Reading concept ~bank
+Reading concept ~barber_shop
+Reading concept ~baseball_teams
+Reading concept ~baseorgans
+Reading concept ~basic_degrees
+Reading concept ~bathroom_items
+Reading concept ~beach
+Reading concept ~beauty_salon
+Reading concept ~bedroom_items
+Reading concept ~being_conduit
+Reading concept ~beings
+Reading concept ~beer
+Reading concept ~beverage
+Reading concept ~bioarmor
+Reading concept ~biome
+Reading concept ~bird
+Reading concept ~birth_defect
+Reading concept ~birthlocationnoun
+Reading concept ~black
+*** Warning- line 164 of concepts.top: melanic is not a known word. Is it misspelled?
+*** Warning- line 164 of concepts.top: nigrine is not a known word. Is it misspelled?
+*** Warning- line 164 of concepts.top: piceous is not a known word. Is it misspelled?
+Reading concept ~black_hackers
+Reading concept ~bladed_weapon
+Reading concept ~blemishmark
+Reading concept ~blue
+*** Warning- line 170 of concepts.top: azuline is not a known word. Is it misspelled?
+*** Warning- line 170 of concepts.top: cyaneous is not a known word. Is it misspelled?
+*** Warning- line 170 of concepts.top: mazarine is not a known word. Is it misspelled?
+*** Warning- line 170 of concepts.top: pavonated is not a known word. Is it misspelled?
+*** Warning- line 170 of concepts.top: porceline is not a known word. Is it misspelled?
+*** Warning- line 171 of concepts.top: watchet is not a known word. Is it misspelled?
+Reading concept ~blue_other
+Reading concept ~board_games
+Reading concept ~bodily_states
+Reading concept ~bodyarmor
+Reading concept ~bodyparts
+Reading concept ~bone
+Reading concept ~book_genre
+Reading concept ~book_store
+Reading concept ~bookmagazine
+Reading concept ~bookstore
+Reading concept ~boutique
+Reading concept ~bowling_alley
+Reading concept ~breakfast_items
+Reading concept ~bridal_store
+Reading concept ~brother
+Reading concept ~brown
+Reading concept ~brown_other
+Reading concept ~browsers
+Reading concept ~building
+Reading concept ~building_parts
+Reading concept ~building_substances
+Reading concept ~burnable
+Reading concept ~business_supply
+Reading concept ~butchery
+Reading concept ~cafe
+Reading concept ~caffinated_drinks
+Reading concept ~candy
+Reading concept ~car
+Reading concept ~car_brands
+Reading concept ~cardgame
+Reading concept ~carryable
+Reading concept ~cartoon_character
+Reading concept ~cashable_item
+Reading concept ~category
+Reading concept ~celestial_body
+Reading concept ~celestial_observation
+Reading concept ~ceo
+Reading concept ~measurement
+Reading concept ~chatbotlist
+Reading concept ~cheeses
+Reading concept ~chemicals
+Reading concept ~chinese_cooking_styles
+Reading concept ~cinema
+Reading concept ~christmas_words
+Reading concept ~citytype
+Reading concept ~classactions
+Reading concept ~classroom
+Reading concept ~cleaners
+Reading concept ~cleaning_substances
+Reading concept ~closeable
+Reading concept ~clothes
+Reading concept ~clothes_for_cold
+Reading concept ~clothes_for_hot
+Reading concept ~clothes_for_limbs
+Reading concept ~clothes_for_rain
+Reading concept ~clothes_in_pairs
+Reading concept ~clothing_bottomhalf
+Reading concept ~clothing_material
+Reading concept ~clothing_style_words
+Reading concept ~clothing_tophalf
+Reading concept ~cloud
+Reading concept ~cocktail
+*** Warning- line 267 of concepts.top: Word marguerita only known in opposite case
+Reading concept ~coffee_shop
+Reading concept ~coin_shop
+Reading concept ~coffees
+Reading concept ~college
+Reading concept ~color_words
+Reading concept ~colors
+Reading concept ~combat_sports
+Reading concept ~comic
+Reading concept ~communication_artifacts
+Reading concept ~communications
+Reading concept ~communicators
+Reading concept ~company
+Reading concept ~company_groups
+Reading concept ~comparisons
+Reading concept ~compass_directions
+Reading concept ~compassdirection
+Reading concept ~complexity_words
+Reading concept ~computer_scientist
+Reading concept ~conduits
+Reading concept ~confectioner
+Reading concept ~confiners
+Reading concept ~container_furniture
+Reading concept ~containers
+Reading concept ~contains
+Reading concept ~controllers
+Reading concept ~convenience_store
+Reading concept ~cooked_words
+Reading concept ~cooklocation
+Reading concept ~cookware
+Reading concept ~cool
+Reading concept ~cosmetics
+Reading concept ~cost
+Reading concept ~counting_quantity
+Reading concept ~country_music_singers
+Reading concept ~country_rock_groups
+Reading concept ~covers
+Reading concept ~craft
+Reading concept ~craft_store
+Reading concept ~creators
+Reading concept ~crimes
+Reading concept ~crimes_common
+Reading concept ~crimes_of_mobsters
+Reading concept ~crimes_of_politics
+Reading concept ~crimes_of_professionals
+Reading concept ~crimes_of_property
+Reading concept ~crimes_of_public_order
+Reading concept ~crimes_of_violence
+Reading concept ~crustaceans
+Reading concept ~dairyitems
+Reading concept ~dance
+Reading concept ~dance_stuff
+Reading concept ~dances
+Reading concept ~dangerous_job
+*** Warning- line 330 of concepts.top: stuntperson is not a known word. Is it misspelled?
+Reading concept ~datatype
+Reading concept ~day_care_center
+Reading concept ~dayname
+Reading concept ~decorations
+Reading concept ~defender
+Reading concept ~degrees
+Reading concept ~deli
+Reading concept ~dentist_items
+Reading concept ~department_store
+Reading concept ~desert
+Reading concept ~dessert
+Reading concept ~diet
+Reading concept ~different
+Reading concept ~dining_room_items
+Reading concept ~dinosaur
+Reading concept ~directions
+Reading concept ~diseaselist
+Reading concept ~area_quantity
+Reading concept ~distance_quantity
+Reading concept ~diversity_words
+Reading concept ~division
+Reading concept ~doctor
+Reading concept ~dog_breeds
+Reading concept ~dominance_words
+Reading concept ~draper
+Reading concept ~drinkstuff
+Reading concept ~druglist
+Reading concept ~drugs_depressive
+Reading concept ~drugs_hallucinogen
+Reading concept ~drugs_illegal
+Reading concept ~drugs_legal
+Reading concept ~drugs_narcotic
+Reading concept ~drugs_stimulant
+Reading concept ~drugstore
+Reading concept ~dry_cleaner
+Reading concept ~dunno
+Reading concept ~durability_words
+Reading concept ~earthmedia_words
+Reading concept ~eatable
+Reading concept ~eatery
+Reading concept ~economic_troubles
+Reading concept ~electronic_furniture
+Reading concept ~electronic_items
+Reading concept ~element
+Reading concept ~emosadevent
+Reading concept ~emosurpriseevent
+Reading concept ~energy_force
+Reading concept ~enterable
+Reading concept ~entertainment_stuff
+Reading concept ~entirety_words
+Reading concept ~equals
+Reading concept ~equestrian_sports
+Reading concept ~example
+Reading concept ~exerciselist
+Reading concept ~expertise_words
+Reading concept ~explosive
+Reading concept ~explosive_weapon
+Reading concept ~extremities
+Reading concept ~fabric_store
+Reading concept ~fairytale_characters
+Reading concept ~fake_religious_sect
+Reading concept ~family_adult
+Reading concept ~family_adult_female
+Reading concept ~family_adult_generic
+Reading concept ~family_adult_male
+Reading concept ~family_grandfather
+Reading concept ~family_children
+Reading concept ~family_children_female
+Reading concept ~family_children_generic
+Reading concept ~family_children_male
+Reading concept ~family_members
+Reading concept ~farm_animals
+Reading concept ~farm_items
+Reading concept ~fashionlist
+Reading concept ~fast
+Reading concept ~fasteners
+Reading concept ~fastfood_place
+Reading concept ~father
+Reading concept ~favorite
+Reading concept ~feeling_adequate
+Reading concept ~feeling_admiration
+Reading concept ~feeling_alone
+Reading concept ~feeling_angry
+Reading concept ~feeling_apathetic
+Reading concept ~feeling_attached
+Reading concept ~feeling_attracted
+Reading concept ~feeling_belittle
+Reading concept ~feeling_bored
+Reading concept ~feeling_burden
+Reading concept ~feeling_cheated
+Reading concept ~feeling_codependent
+Reading concept ~feeling_demoralized
+Reading concept ~feeling_derailed
+Reading concept ~feeling_embarrass
+Reading concept ~feeling_entitled
+Reading concept ~feeling_esteem
+Reading concept ~feeling_fearful
+Reading concept ~feeling_fearless
+Reading concept ~feeling_focused
+Reading concept ~feeling_free
+Reading concept ~feeling_grateful
+Reading concept ~feeling_happy
+Reading concept ~feeling_hated
+Reading concept ~feeling_independent
+Reading concept ~feeling_irristable
+Reading concept ~feeling_justified
+Reading concept ~feeling_lost
+Reading concept ~feeling_loved
+Reading concept ~feeling_lustful
+Reading concept ~feeling_obsessed
+Reading concept ~feeling_outofcontrol
+Reading concept ~feeling_powerless
+Reading concept ~feeling_reproachful
+Reading concept ~feeling_sad
+*** Warning- line 478 of concepts.top: disspirited is not a known word. Is it misspelled?
+Reading concept ~feeling_safe
+Reading concept ~feeling_singledout
+Reading concept ~feeling_surprise
+Reading concept ~feeling_trapped
+Reading concept ~feeling_disgust
+Reading concept ~feeling_sympathy
+Reading concept ~feeling_words
+Reading concept ~emotions
+Reading concept ~female
+Reading concept ~fertilizer
+Reading concept ~field_events
+Reading concept ~film_stuff
+Reading concept ~fine_arts
+Reading concept ~fire_department
+Reading concept ~fire_force
+Reading concept ~firearmor
+Reading concept ~fishes
+Reading concept ~fishmonger
+Reading concept ~flame_weapon
+Reading concept ~flammable
+Reading concept ~flavorer
+Reading concept ~flexibility_words
+Reading concept ~florist
+Reading concept ~flowers
+Reading concept ~fnfactotum
+Reading concept ~focus
+Reading concept ~food
+Reading concept ~foodbeverage
+Reading concept ~foodgroup
+Reading concept ~force_containers
+Reading concept ~forces
+Reading concept ~format_words
+Reading concept ~frequency_words
+Reading concept ~friend
+Reading concept ~fruit
+Reading concept ~functions
+Reading concept ~fungi
+Reading concept ~furnishings
+Reading concept ~furniture
+Reading concept ~furniture_store
+Reading concept ~gamelist
+Reading concept ~game
+Reading concept ~games_kid
+Reading concept ~gas_station
+Reading concept ~gas_weapon
+Reading concept ~gasarmor
+Reading concept ~gases
+Reading concept ~gender_odd
+Reading concept ~genderfemale
+Reading concept ~gendermale
+Reading concept ~gendernoun
+Reading concept ~genericbody
+Reading concept ~geology_subjects
+Reading concept ~geo_shape
+Reading concept ~geographical_areas
+Reading concept ~japanesewords
+Reading concept ~frenchwords
+Reading concept ~germanwords
+Reading concept ~gesturelist
+Reading concept ~gift_shop
+Reading concept ~girlfriend
+Reading concept ~godnames
+Reading concept ~good_weather
+Reading concept ~grains
+Reading concept ~graphic_arts
+Reading concept ~gray
+Reading concept ~greek_gods
+Reading concept ~green
+*** Warning- line 577 of concepts.top: caesious is not a known word. Is it misspelled?
+*** Warning- line 577 of concepts.top: chlorochrous is not a known word. Is it misspelled?
+*** Warning- line 577 of concepts.top: olivaceous is not a known word. Is it misspelled?
+*** Warning- line 577 of concepts.top: porraceous is not a known word. Is it misspelled?
+*** Warning- line 577 of concepts.top: prasinous is not a known word. Is it misspelled?
+*** Warning- line 577 of concepts.top: smaragdine is not a known word. Is it misspelled?
+*** Warning- line 578 of concepts.top: virescent is not a known word. Is it misspelled?
+*** Warning- line 578 of concepts.top: virid is not a known word. Is it misspelled?
+*** Warning- line 578 of concepts.top: viridian is not a known word. Is it misspelled?
+*** Warning- line 578 of concepts.top: zinnober is not a known word. Is it misspelled?
+Reading concept ~green_other
+Reading concept ~groups
+Reading concept ~gymnastics
+Reading concept ~hair_colors
+Reading concept ~hair_products
+Reading concept ~hair_salon
+Reading concept ~haircut
+Reading concept ~hanukkah_words
+Reading concept ~happyevent
+Reading concept ~hardware_store
+Reading concept ~harmful_substance
+Reading concept ~hate
+Reading concept ~hattributes
+Reading concept ~hawaii_landmarks
+Reading concept ~hawaiian_gods
+Reading concept ~he
+Reading concept ~gender
+Reading concept ~malesexanimals
+Reading concept ~headpart
+Reading concept ~health_food_shop
+Reading concept ~height_words
+Reading concept ~heightnoun
+Reading concept ~herbspice
+Reading concept ~hitting_weapon
+Reading concept ~hobbies_animals
+Reading concept ~hobbies_arts_and_crafts
+Reading concept ~hobbies_electronic
+Reading concept ~hobbies_finding
+Reading concept ~hobbies_food
+Reading concept ~hobbies_games_and_toys
+Reading concept ~hobbies_gardening_and_plants
+Reading concept ~hobbies_music
+Reading concept ~hobbies_newage
+Reading concept ~hobbies_observation
+Reading concept ~hobbies_paper_crafts
+Reading concept ~hobbies_performing
+Reading concept ~hobbies_photography
+Reading concept ~hobbies_puzzles
+Reading concept ~hobbies_scale_model_building
+Reading concept ~hobbies_science
+Reading concept ~hobbies_social
+Reading concept ~hobbies_writing
+Reading concept ~hobby
+Reading concept ~hockey_teams
+Reading concept ~soccer_teams
+Reading concept ~holdable
+Reading concept ~holiday
+Reading concept ~hospital
+Reading concept ~hotel
+Reading concept ~house_problems
+Reading concept ~household_tasks
+Reading concept ~human_data
+Reading concept ~human_surface
+Reading concept ~ice_cream_store
+Reading concept ~identity
+Reading concept ~if
+Reading concept ~illevent
+Reading concept ~image_websites
+Reading concept ~immovable
+Reading concept ~industrial_substances
+Reading concept ~information_center
+Reading concept ~insects
+Reading concept ~instrumenting
+Reading concept ~insurance
+Reading concept ~insurance_agent
+Reading concept ~intelligent_being
+Reading concept ~interjections
+Reading concept ~internet_cafe
+Reading concept ~invertebrate
+Reading concept ~it
+Reading concept ~it_words
+Reading concept ~japanese_universities
+Reading concept ~jeweller
+Reading concept ~jewelry_items
+Reading concept ~job
+Reading concept ~job_fields
+Reading concept ~job_fields_medicine
+Reading concept ~juice_drinks
+Reading concept ~junk_food
+Reading concept ~kitchen_appliances
+Reading concept ~kitchen_items
+Reading concept ~land_force
+Reading concept ~landscape_materials
+Reading concept ~laundromat
+Reading concept ~lawstuff
+Reading concept ~leather_goods_shop
+Reading concept ~legality_words
+Reading concept ~length_words
+Reading concept ~lethality_words
+Reading concept ~lettercount
+Reading concept ~letters
+Reading concept ~vowels
+Reading concept ~library
+Reading concept ~life_science
+Reading concept ~life_taxonomy
+Reading concept ~lingerie_shop
+Reading concept ~liquids
+Reading concept ~liquid_poisons
+Reading concept ~liquid_containers
+Reading concept ~liquid_quantity
+*** Warning- line 743 of concepts.top: pt is not a known word. Is it misspelled?
+Reading concept ~liquor_store
+Reading concept ~living_room_items
+Reading concept ~locatedentity
+Reading concept ~locationnames
+Reading concept ~lockable
+Reading concept ~looks
+Reading concept ~lost_and_found
+Reading concept ~herbivore
+*** Warning- line 825 of concepts.top: ceratops is not a known word. Is it misspelled?
+Reading concept ~omnivore
+*** Warning- line 828 of concepts.top: bluejay is not a known word. Is it misspelled?
+Reading concept ~carnivore
+*** Warning- line 830 of concepts.top: foxhawk is not a known word. Is it misspelled?
+*** Warning- line 830 of concepts.top: scorpian is not a known word. Is it misspelled?
+Reading concept ~loud
+Reading concept ~luggage
+Reading concept ~luggage_shop
+Reading concept ~lumberyard
+Reading concept ~lunch_items
+Reading concept ~magazine
+Reading concept ~magazines_for_men
+Reading concept ~magazines_for_women
+Reading concept ~magic_force
+Reading concept ~magic_weapon
+Reading concept ~magicians
+Reading concept ~male
+Reading concept ~mammals
+Reading concept ~marital_state
+Reading concept ~markers
+Reading concept ~masonry_supply_store
+Reading concept ~material
+Reading concept ~math_angle
+Reading concept ~math_field
+Reading concept ~math_subjects
+Reading concept ~mathematica
+Reading concept ~mathematician
+Reading concept ~meal
+Reading concept ~meaningless_praise_words
+Reading concept ~measurelist
+Reading concept ~meat
+Reading concept ~mechanic
+Reading concept ~medical_substances
+Reading concept ~medium_degrees
+Reading concept ~mental_illnesses
+Reading concept ~metallic
+Reading concept ~metal
+Reading concept ~microlife
+Reading concept ~military_groups
+Reading concept ~military_man
+Reading concept ~milk
+Reading concept ~milk_drinks
+Reading concept ~minerals
+Reading concept ~us_minorities
+Reading concept ~minor_outdoor_activities
+Reading concept ~misc_websites
+Reading concept ~mobility_words
+Reading concept ~moisture_words
+Reading concept ~monera
+Reading concept ~month_names
+Reading concept ~more
+Reading concept ~mother
+Reading concept ~mountain
+Reading concept ~mountain_sports
+Reading concept ~movers
+Reading concept ~movie_genres
+Reading concept ~movie_rating
+Reading concept ~movie_store
+Reading concept ~moviestuff
+Reading concept ~moving_groups
+Reading concept ~multiplication
+Reading concept ~music_groups
+Reading concept ~music_subjects
+Reading concept ~music_store
+Reading concept ~music_stuff
+Reading concept ~musical_genres
+Reading concept ~musical_instrument
+Reading concept ~musical_instruments_brass
+Reading concept ~musical_instruments_percussion
+Reading concept ~musical_instruments_string
+Reading concept ~musical_instruments_woodwind
+Reading concept ~musiciantype
+Reading concept ~mythical_creatures
+Reading concept ~story_character
+Reading concept ~mythical_intelligent_being
+Reading concept ~mythical_being
+Reading concept ~name
+Reading concept ~nanowords
+Reading concept ~natural_disasters
+Reading concept ~natural_words
+Reading concept ~negation
+Reading concept ~negativeemotions
+Reading concept ~negativevalue
+Reading concept ~networkgame
+Reading concept ~new_years_words
+Reading concept ~newsagent
+Reading concept ~next
+Reading concept ~noanswer
+Reading concept ~noise
+Reading concept ~nonadult
+Reading concept ~nonverbal_signs
+Reading concept ~norse_gods
+Reading concept ~nounlist
+Reading concept ~nounroot
+Reading concept ~novelty_words
+Reading concept ~nursery
+Reading concept ~nutrient
+Reading concept ~object_surface
+Reading concept ~objects
+Reading concept ~occupation
+*** Warning- line 963 of concepts.top: roadie is not a known word. Is it misspelled?
+Reading concept ~occupation_animals
+Reading concept ~occupation_aviation
+Reading concept ~occupation_banking
+Reading concept ~occupation_bureaucrat
+Reading concept ~occupation_business
+Reading concept ~occupation_cleaning
+Reading concept ~occupation_clothing
+Reading concept ~occupation_communications
+Reading concept ~occupation_computers
+Reading concept ~occupation_construction
+*** Warning- line 979 of concepts.top: blockmason is not a known word. Is it misspelled?
+*** Warning- line 979 of concepts.top: brickmason is not a known word. Is it misspelled?
+*** Warning- line 980 of concepts.top: installer is not a known word. Is it misspelled?
+*** Warning- line 980 of concepts.top: phytogrammetrist is not a known word. Is it misspelled?
+Reading concept ~occupation_creator
+*** Warning- line 982 of concepts.top: woodmachinist is not a known word. Is it misspelled?
+Reading concept ~occupation_dancer
+Reading concept ~occupation_drinks
+Reading concept ~occupation_educator
+Reading concept ~occupation_engineer
+Reading concept ~occupation_entertainment
+Reading concept ~occupation_esthetics
+Reading concept ~occupation_explorer
+Reading concept ~occupation_factory
+*** Warning- line 993 of concepts.top: Word boilermaker only known in opposite case
+Reading concept ~occupation_female
+Reading concept ~occupation_film
+Reading concept ~occupation_food
+Reading concept ~occupation_forest
+Reading concept ~occupation_generic
+Reading concept ~occupation_insurance
+Reading concept ~occupation_inventor
+Reading concept ~occupation_jobless
+Reading concept ~occupation_law
+Reading concept ~occupation_magic
+Reading concept ~occupation_male
+Reading concept ~occupation_manager
+Reading concept ~occupation_medical
+Reading concept ~occupation_military
+Reading concept ~occupation_music
+Reading concept ~occupation_society
+Reading concept ~occupation_performer
+Reading concept ~occupation_personal_services
+Reading concept ~occupation_plants
+Reading concept ~occupation_politics
+Reading concept ~occupation_public_safety
+Reading concept ~occupation_real_estate
+Reading concept ~occupation_religion
+Reading concept ~occupation_sales
+*** Warning- line 1040 of concepts.top: shopfitter is not a known word. Is it misspelled?
+Reading concept ~occupation_science
+Reading concept ~occupation_software
+Reading concept ~occupation_sports
+Reading concept ~occupation_spy
+Reading concept ~occupation_television
+Reading concept ~occupation_transport
+Reading concept ~occupation_writer
+Reading concept ~oldlist
+Reading concept ~opinion
+Reading concept ~opinionset
+Reading concept ~optician
+Reading concept ~orange
+Reading concept ~papercanvascraft
+Reading concept ~party_store
+Reading concept ~penetrators
+Reading concept ~performing_arts
+Reading concept ~performlist
+Reading concept ~personal_article
+Reading concept ~pet_animals
+Reading concept ~pet_cage
+Reading concept ~pet_food
+Reading concept ~pet_store
+Reading concept ~philosopher
+Reading concept ~philosophy_kind
+Reading concept ~phonelist
+Reading concept ~photo
+Reading concept ~photographer
+Reading concept ~physical_property
+Reading concept ~physicality
+Reading concept ~physics_field
+Reading concept ~physics_particle
+Reading concept ~placesetting
+Reading concept ~planet
+Reading concept ~plantlist
+Reading concept ~plan
+Reading concept ~plants
+Reading concept ~plot
+Reading concept ~poet
+Reading concept ~pointed_weapon
+Reading concept ~poison
+Reading concept ~police_station
+Reading concept ~politialarea
+Reading concept ~political_groups
+Reading concept ~political_parties
+Reading concept ~political_system
+Reading concept ~politicalstuff
+Reading concept ~politician
+Reading concept ~popstar
+Reading concept ~positivevalue
+Reading concept ~post_office
+Reading concept ~potency_words
+Reading concept ~precision_sports
+Reading concept ~president
+Reading concept ~priceabove
+Reading concept ~priceaverage
+Reading concept ~pricebelow
+Reading concept ~pricecheap
+Reading concept ~pricecost
+Reading concept ~priceexpensive
+Reading concept ~probability_words
+Reading concept ~processes
+Reading concept ~projectile_weapon
+Reading concept ~protista
+Reading concept ~psychality
+Reading concept ~pub
+Reading concept ~purple
+*** Warning- line 1138 of concepts.top: hyacinthine is not a known word. Is it misspelled?
+*** Warning- line 1138 of concepts.top: ianthine is not a known word. Is it misspelled?
+*** Warning- line 1138 of concepts.top: porphyrous is not a known word. Is it misspelled?
+*** Warning- line 1138 of concepts.top: purpure is not a known word. Is it misspelled?
+*** Warning- line 1138 of concepts.top: purpureal is not a known word. Is it misspelled?
+Reading concept ~purple_other
+Reading concept ~quantity
+Reading concept ~velocity_quantity
+Reading concept ~quite
+Reading concept ~flavors
+Reading concept ~race
+Reading concept ~racial
+Reading concept ~rarity_words
+Reading concept ~reading_stuff
+Reading concept ~real_estate
+Reading concept ~reallybadweather
+Reading concept ~recentlist
+Reading concept ~recentwords
+Reading concept ~recorders
+Reading concept ~recreation
+Reading concept ~red
+*** Warning- line 1157 of concepts.top: coccineous is not a known word. Is it misspelled?
+*** Warning- line 1157 of concepts.top: coquelicot is not a known word. Is it misspelled?
+*** Warning- line 1157 of concepts.top: cramoisy is not a known word. Is it misspelled?
+*** Warning- line 1157 of concepts.top: erythraean is not a known word. Is it misspelled?
+*** Warning- line 1157 of concepts.top: flammeous is not a known word. Is it misspelled?
+*** Warning- line 1157 of concepts.top: kermes is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: lateritious is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: miniaceous is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: modena is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: nacarat is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: phoeniceous is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: ponceau is not a known word. Is it misspelled?
+*** Warning- line 1158 of concepts.top: puniceous is not a known word. Is it misspelled?
+*** Warning- line 1159 of concepts.top: vermeil is not a known word. Is it misspelled?
+Reading concept ~red_other
+Reading concept ~region
+Reading concept ~related_list
+Reading concept ~reliability_words
+Reading concept ~religion_kind
+Reading concept ~religious_buildings
+Reading concept ~religious_groups
+Reading concept ~religious_leaders
+Reading concept ~result
+Reading concept ~religious_sect
+Reading concept ~reptiles
+Reading concept ~restaurant
+Reading concept ~rideable
+Reading concept ~rock_shop
+Reading concept ~role
+Reading concept ~role_accomodation
+Reading concept ~role_ally
+Reading concept ~role_criminal
+Reading concept ~role_economic
+Reading concept ~role_enemy
+Reading concept ~role_family
+Reading concept ~role_heroic
+Reading concept ~role_knowledge
+Reading concept ~role_legalbadguy
+Reading concept ~role_legalgoodguy
+Reading concept ~role_medical
+Reading concept ~role_member
+Reading concept ~role_misc
+Reading concept ~role_nationality_member
+Reading concept ~role_political_member
+Reading concept ~role_politics
+Reading concept ~role_religious_member
+Reading concept ~role_romantic
+Reading concept ~spouse
+Reading concept ~dating_friend
+Reading concept ~role_worship
+Reading concept ~roman_gods
+Reading concept ~roomlist
+Reading concept ~royalty
+Reading concept ~royalty_female
+Reading concept ~royalty_male
+Reading concept ~ruler
+Reading concept ~running_events
+Reading concept ~salary
+Reading concept ~sandwich
+Reading concept ~scenery_water_bodies
+Reading concept ~scenery
+Reading concept ~scenery_air
+Reading concept ~scenery_bridges
+Reading concept ~scenery_crust_openings
+Reading concept ~scenery_land
+Reading concept ~scenery_of_humans
+Reading concept ~scenery_of_transport
+Reading concept ~scenery_outer_space
+Reading concept ~scenery_water
+Reading concept ~scent_words
+Reading concept ~science_subjects
+Reading concept ~school_types
+Reading concept ~school_groups
+Reading concept ~school_classes
+Reading concept ~social_science_subjects
+Reading concept ~scientist
+Reading concept ~search_engines
+Reading concept ~seasons
+Reading concept ~sensations
+Reading concept ~serial_killers
+Reading concept ~service_station
+Reading concept ~sex
+Reading concept ~sex_shop
+Reading concept ~sex_stuff
+Reading concept ~sex_toy
+Reading concept ~sexual_act
+*** Warning- line 1272 of concepts.top: assfuck is not a known word. Is it misspelled?
+*** Warning- line 1272 of concepts.top: boffing is not a known word. Is it misspelled?
+*** Warning- line 1272 of concepts.top: clitfuck is not a known word. Is it misspelled?
+*** Warning- line 1272 of concepts.top: felching is not a known word. Is it misspelled?
+*** Warning- line 1273 of concepts.top: fuckin is not a known word. Is it misspelled?
+*** Warning- line 1273 of concepts.top: massterbait is not a known word. Is it misspelled?
+*** Warning- line 1273 of concepts.top: masstrbait is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: masstrbate is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: masterbate is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: masterbates is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: masturbatory is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: munging is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: pussylicking is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: rimjob is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: titfuck is not a known word. Is it misspelled?
+*** Warning- line 1274 of concepts.top: tittyfuck is not a known word. Is it misspelled?
+*** Warning- line 1275 of concepts.top: wankjob is not a known word. Is it misspelled?
+Reading concept ~sexual_fetish
+Reading concept ~sexual_liquid
+Reading concept ~sexual_part
+Reading concept ~sexual_position
+Reading concept ~sexual_preference_nouns
+Reading concept ~sexual_titillation
+*** Warning- line 1284 of concepts.top: hardon is not a known word. Is it misspelled?
+Reading concept ~shapers
+Reading concept ~shapes
+*** Warning- line 1290 of concepts.top: enneagon is not a known word. Is it misspelled?
+*** Warning- line 1291 of concepts.top: hendecagon is not a known word. Is it misspelled?
+*** Warning- line 1291 of concepts.top: septagon is not a known word. Is it misspelled?
+*** Warning- line 1291 of concepts.top: septahedron is not a known word. Is it misspelled?
+Reading concept ~count_collection
+Reading concept ~she
+Reading concept ~femalesexanimals
+Reading concept ~unknownsexhuman
+Reading concept ~sense
+Reading concept ~shelter
+Reading concept ~shoe
+Reading concept ~shoe_store
+Reading concept ~shootable
+Reading concept ~shopping_stores
+Reading concept ~sicknesses
+Reading concept ~similar
+Reading concept ~singinglist
+Reading concept ~sister
+Reading concept ~skate_sports
+Reading concept ~slow
+Reading concept ~smoke_shop
+Reading concept ~snackgroup
+Reading concept ~soappolish
+Reading concept ~social_issues
+Reading concept ~social_network_sites
+Reading concept ~societal_data
+Reading concept ~softdrinks
+Reading concept ~solid_containers
+Reading concept ~noisy
+Reading concept ~sounds
+Reading concept ~specialactivities
+Reading concept ~spiritpart
+Reading concept ~spirits
+Reading concept ~spirits_gin
+Reading concept ~spirits_vodka
+Reading concept ~spirits_whisky
+Reading concept ~spiritual_force
+Reading concept ~exercises
+Reading concept ~sport
+Reading concept ~sporting_goods_store
+Reading concept ~sports_ball
+Reading concept ~sports_raquet
+Reading concept ~staff_groups
+Reading concept ~stamp_shop
+Reading concept ~star
+Reading concept ~startreklist
+Reading concept ~state
+Reading concept ~state_words
+Reading concept ~states_of_matter
+Reading concept ~stationary
+Reading concept ~stationary_store
+Reading concept ~stock_broker
+Reading concept ~stop
+Reading concept ~styles
+Reading concept ~substances
+Reading concept ~subtraction
+Reading concept ~supermarket
+Reading concept ~supports
+Reading concept ~surface_furniture
+Reading concept ~surfaces
+Reading concept ~switchable
+Reading concept ~symptom
+Reading concept ~system_independent_marker
+Reading concept ~system_joiner
+Reading concept ~taxi
+Reading concept ~teach_subjects
+Reading concept ~team_sport
+Reading concept ~temperature_quantity
+Reading concept ~temperature_words
+Reading concept ~textile_crafts
+Reading concept ~texture_words
+Reading concept ~theatrical_groups
+Reading concept ~therapist
+Reading concept ~there
+Reading concept ~they
+Reading concept ~thrift_shop
+Reading concept ~throwable
+Reading concept ~throwing_weapon
+Reading concept ~time_circadian_reference
+Reading concept ~time_instant
+*** Warning- line 1424 of concepts.top: bicennial is not a known word. Is it misspelled?
+*** Warning- line 1424 of concepts.top: biennium is not a known word. Is it misspelled?
+*** Warning- line 1424 of concepts.top: bimonthy is not a known word. Is it misspelled?
+*** Warning- line 1425 of concepts.top: decennial is not a known word. Is it misspelled?
+*** Warning- line 1427 of concepts.top: quadrennnimum is not a known word. Is it misspelled?
+*** Warning- line 1427 of concepts.top: quadricentennial is not a known word. Is it misspelled?
+*** Warning- line 1428 of concepts.top: semidiurnal is not a known word. Is it misspelled?
+*** Warning- line 1428 of concepts.top: sexcentenary is not a known word. Is it misspelled?
+*** Warning- line 1428 of concepts.top: sexennial is not a known word. Is it misspelled?
+*** Warning- line 1429 of concepts.top: trimonthly is not a known word. Is it misspelled?
+*** Warning- line 1429 of concepts.top: triweekly is not a known word. Is it misspelled?
+*** Warning- line 1429 of concepts.top: twinight is not a known word. Is it misspelled?
+Reading concept ~time_item
+Reading concept ~time_reference
+*** Warning- line 1432 of concepts.top: bc is not a known word. Is it misspelled?
+*** Warning- line 1435 of concepts.top: noontime is not a known word. Is it misspelled?
+Reading concept ~time_unit
+Reading concept ~timeearlier
+Reading concept ~timelater
+Reading concept ~timenopreposition
+Reading concept ~tobacco
+Reading concept ~tool
+Reading concept ~torso
+Reading concept ~tow_service
+Reading concept ~toy
+Reading concept ~toy_store
+Reading concept ~toyable
+Reading concept ~track_field_sport
+Reading concept ~tradegoods
+Reading concept ~transmuters
+Reading concept ~transport_vehicles
+Reading concept ~travel_agency
+Reading concept ~travel_websites
+Reading concept ~treatments
+Reading concept ~tv_genre
+Reading concept ~tv_network
+Reading concept ~tv_show
+Reading concept ~tvstuff
+Reading concept ~unfocused_groups
+Reading concept ~unitmeasure
+Reading concept ~university
+Reading concept ~unreachable
+Reading concept ~usefulfactverb
+Reading concept ~vegetable
+Reading concept ~vehicle
+Reading concept ~vehicle_conduit
+Reading concept ~vehicle_weapons
+Reading concept ~vehicles_air
+Reading concept ~vehicles_land
+Reading concept ~car_vehicles
+*** Warning- line 1519 of concepts.top: vehiclewrecker is not a known word. Is it misspelled?
+Reading concept ~vehicles_sea
+Reading concept ~vehicles_space
+Reading concept ~video_websites
+Reading concept ~videogame
+Reading concept ~videogame_genre
+Reading concept ~videogame_hardware_companies
+Reading concept ~videogame_machines
+Reading concept ~videogame_software_companies
+Reading concept ~virtual_pets
+Reading concept ~vitamin
+Reading concept ~warm
+Reading concept ~warstuff
+Reading concept ~water_drinks
+Reading concept ~water_force
+Reading concept ~water_sports
+Reading concept ~weapon
+Reading concept ~weapon_ammo
+Reading concept ~weapon_biological
+Reading concept ~weapon_future
+Reading concept ~weapon_magical
+Reading concept ~weapon_massdestruction
+Reading concept ~weapon_medieval
+Reading concept ~weapon_missile
+Reading concept ~weapon_modern
+Reading concept ~weapon_nuclear
+Reading concept ~weapon_stun
+Reading concept ~wearable
+Reading concept ~weatherkinds
+Reading concept ~weatherprocess
+Reading concept ~web_filesharing_sites
+Reading concept ~webmail_services
+Reading concept ~webnews_sites
+Reading concept ~websites
+Reading concept ~weekday
+Reading concept ~weight_words
+Reading concept ~what
+Reading concept ~white
+Reading concept ~white_hackers
+Reading concept ~why
+Reading concept ~wildness_words
+Reading concept ~wind_force
+Reading concept ~wine
+Reading concept ~wine_red
+Reading concept ~wine_white
+Reading concept ~winter_sports
+Reading concept ~wnapplied_science
+Reading concept ~wndoctrines
+Reading concept ~wnengineering
+Reading concept ~wnfree_time
+Reading concept ~wnmedicine
+Reading concept ~wnsocial_science
+Reading concept ~wood
+Reading concept ~woodmetalclayglasscraft
+Reading concept ~word_games
+Reading concept ~wordnetpropogate
+Reading concept ~wordtypes
+Reading concept ~worklist
+Reading concept ~xmeasurers
+Reading concept ~xweight_words
+Reading concept ~xweightnouns
+Reading concept ~yellow
+Reading concept ~yellow_other
+Reading concept ~yesanswer
+Reading concept ~insults
+Reading concept ~bad_words
+Reading concept ~hatewords
+Reading concept ~classhate
+Reading concept ~disabilityhate
+Reading concept ~sexualhate
+Reading concept ~nationalityhate
+Reading concept ~religionhate
+Reading concept ~ethnichate
+Reading concept ~emocurse
+Reading concept ~do_with_titles
+Reading concept ~nightthings
+Reading concept ~morningthings
+
+----Reading file opposite.tbl
+Reading concept ~numberoperator
+Reading table tbl:~numberoperator
+Reading table tbl:~opposites
+
+----Reading file prepositionhierarchy.top
+Reading concept ~directionplacepreposition
+Reading concept ~directionon
+Reading concept ~directionunder
+Reading concept ~directionover
+Reading concept ~directioninside
+Reading concept ~directionoutside
+Reading concept ~directionfront
+Reading concept ~directionbeside
+Reading concept ~directionrear
+Reading concept ~directioncompass
+Reading concept ~extensions
+Reading concept ~directionpreposition
+Reading concept ~placepreposition
+Reading concept ~spacepreposition
+Reading concept ~relationpreposition
+Reading concept ~timepreposition
+Reading concept ~prepositionroot
+
+----Reading file verbhierarchy.top
+Reading concept ~determinerlist
+Reading concept ~qwords
+Reading concept ~static_verbs
+Reading concept ~states_of_being
+Reading concept ~sensory_states
+Reading concept ~mental_states
+Reading concept ~measurement_states
+Reading concept ~eternal_truths
+Reading concept ~abort
+Reading concept ~absorb
+Reading concept ~accept_obey
+Reading concept ~achieve
+Reading concept ~acquiring_verbs
+Reading concept ~act
+Reading concept ~active_verbs
+Reading concept ~add_magnetism
+Reading concept ~add_smell
+Reading concept ~affect_object_verbs
+Reading concept ~affection
+Reading concept ~alter_age
+Reading concept ~alter_chemistry_verbs
+Reading concept ~alter_cleanliness_verbs
+Reading concept ~alter_complexity_verbs
+Reading concept ~alter_concentration_higher
+Reading concept ~alter_concentration_lower
+Reading concept ~alter_container_verbs
+Reading concept ~alter_electricity_verbs
+Reading concept ~alter_esthetics_better_verbs
+Reading concept ~alter_esthetics_verbs
+Reading concept ~alter_esthetics_worse
+Reading concept ~alter_functionality_verbs
+Reading concept ~alter_higher
+Reading concept ~alter_horizontal
+Reading concept ~alter_location_verbs
+Reading concept ~alter_lower
+Reading concept ~alter_magnetism_verbs
+Reading concept ~alter_moisture_verbs
+Reading concept ~alter_orientation
+Reading concept ~alter_ph_higher
+Reading concept ~alter_ph_lower
+Reading concept ~alter_quantity_verbs
+Reading concept ~alter_radiation
+Reading concept ~alter_sharpness_verbs
+Reading concept ~alter_size_verbs
+Reading concept ~alter_smell_verbs
+Reading concept ~alter_strength_verbs
+Reading concept ~alter_temperature_verbs
+Reading concept ~alter_tightness_verbs
+Reading concept ~alter_vertical
+Reading concept ~alter_wiggle
+Reading concept ~animalsounds
+Reading concept ~animate_move_verbs
+Reading concept ~travel_verbs
+Reading concept ~association_verbs
+Reading concept ~animate_verbs
+Reading concept ~arrange
+Reading concept ~arrive
+Reading concept ~attachment_verbs
+Reading concept ~auxverblist
+Reading concept ~avoid
+Reading concept ~awareof
+Reading concept ~balance
+Reading concept ~banish
+Reading concept ~be_verbs
+Reading concept ~become_visible
+Reading concept ~bedeacquired
+Reading concept ~befriend
+Reading concept ~begiven
+Reading concept ~block_access
+Reading concept ~block_access_containment
+Reading concept ~blood_ill
+Reading concept ~bodily_activities_verbs
+Reading concept ~bodily_function_verbs
+Reading concept ~body_verbs
+Reading concept ~boss
+Reading concept ~brand
+Reading concept ~breathe
+Reading concept ~build
+Reading concept ~buy
+Reading concept ~capture
+Reading concept ~carry
+Reading concept ~change_state_by_cool
+Reading concept ~change_state_by_heat
+Reading concept ~change_state_by_mixing
+Reading concept ~chat
+Reading concept ~chill
+Reading concept ~choose
+Reading concept ~classify
+Reading concept ~clothing_verbs
+Reading concept ~cold_weather
+Reading concept ~colorize
+Reading concept ~communicate_verbs
+Reading concept ~compete_verbs
+Reading concept ~complete
+Reading concept ~complicate
+Reading concept ~controlling_verbs
+Reading concept ~cooking_verbs
+Reading concept ~cool_verbs
+Reading concept ~copy
+Reading concept ~count
+Reading concept ~creation_verbs
+Reading concept ~cry
+Reading concept ~cutart
+Reading concept ~damage_bend
+Reading concept ~damage_burn
+Reading concept ~damage_explode
+Reading concept ~damage_fatal
+Reading concept ~damage_generic
+Reading concept ~damage_hit
+Reading concept ~damage_hit_foot
+Reading concept ~damage_hit_other
+Reading concept ~damage_magic
+Reading concept ~damage_poison
+Reading concept ~damage_projectile
+Reading concept ~damage_puncture
+Reading concept ~damage_slice
+Reading concept ~damage_snap
+Reading concept ~damage_unusual
+Reading concept ~damage_verbal
+Reading concept ~damage_verbs
+Reading concept ~date
+Reading concept ~deacquiring_verbs
+Reading concept ~deceive
+Reading concept ~decline_obey
+Reading concept ~decrease_count
+Reading concept ~decrease_speed
+Reading concept ~decrease_verbs
+Reading concept ~defend
+Reading concept ~degrade
+Reading concept ~describe
+Reading concept ~disable
+Reading concept ~disappear
+Reading concept ~discharge
+Reading concept ~disenchant
+Reading concept ~dislike
+Reading concept ~draw
+Reading concept ~dress
+Reading concept ~drink
+Reading concept ~drive
+Reading concept ~drop_job
+Reading concept ~drop_object
+Reading concept ~drop_verbs
+Reading concept ~dull
+Reading concept ~eat
+Reading concept ~electrify
+Reading concept ~emitfire
+Reading concept ~emitgas
+Reading concept ~emitgeneric
+Reading concept ~emitlight
+Reading concept ~emitliquid
+Reading concept ~emitsmell
+Reading concept ~emitsound
+Reading concept ~emotional_verbs
+Reading concept ~employ
+Reading concept ~enable
+Reading concept ~enable_access_containment
+Reading concept ~endrelation
+Reading concept ~endure
+Reading concept ~enhance_verbs
+Reading concept ~event_verbs
+Reading concept ~exchange
+Reading concept ~exclusion_verbs
+Reading concept ~excrete_air
+Reading concept ~excrete_liquid
+Reading concept ~excrete_solid
+Reading concept ~excreting_verbs
+Reading concept ~exercise_verbs
+Reading concept ~exorcize
+Reading concept ~explain
+Reading concept ~extinguish
+Reading concept ~farm
+Reading concept ~fatal_other_burn
+Reading concept ~fatal_other_strangle
+Reading concept ~fatal_to_other
+Reading concept ~fatal_to_self
+Reading concept ~faulty_think
+Reading concept ~fight
+Reading concept ~flourish
+Reading concept ~force_obey
+Reading concept ~gain_verbs
+Reading concept ~gamble
+Reading concept ~generic_communicates
+Reading concept ~generic_do_verbs
+Reading concept ~generic_effect
+Reading concept ~generic_ingestion
+Reading concept ~genericart
+Reading concept ~gestures
+Reading concept ~get
+Reading concept ~get_bigger
+Reading concept ~get_smaller
+Reading concept ~give
+Reading concept ~give_birth
+Reading concept ~golfing
+Reading concept ~govern_verbs
+Reading concept ~greet
+Reading concept ~groom
+Reading concept ~gussy
+Reading concept ~halt
+Reading concept ~happen
+Reading concept ~health_verbs
+Reading concept ~hear
+Reading concept ~heat
+Reading concept ~heat_verbs
+Reading concept ~help
+Reading concept ~hot_weather
+Reading concept ~ignite
+Reading concept ~illhealth_verbs
+Reading concept ~imagining_think
+Reading concept ~improve
+Reading concept ~inanimate_move_verbs
+Reading concept ~inanimate_stationary_verbs
+Reading concept ~inanimate_verbs
+Reading concept ~include
+Reading concept ~increase_containment
+Reading concept ~increase_count
+Reading concept ~increase_speed
+Reading concept ~increase_verbs
+Reading concept ~ingesting_verbs
+Reading concept ~inhale
+Reading concept ~invest
+Reading concept ~jail
+Reading concept ~join
+Reading concept ~judge
+Reading concept ~judgement_verbs
+Reading concept ~kill
+Reading concept ~laugh
+Reading concept ~legal_allow
+Reading concept ~legal_guilt
+Reading concept ~legal_harm
+Reading concept ~legal_help
+Reading concept ~legal_lawmaking
+Reading concept ~legal_verbs
+Reading concept ~like
+Reading concept ~linkingverb
+Reading concept ~list
+Reading concept ~live
+Reading concept ~loosen
+Reading concept ~lose_verbs
+Reading concept ~lost
+Reading concept ~lung_ill
+Reading concept ~make_cleaner
+Reading concept ~make_dirtier
+Reading concept ~make_drier
+Reading concept ~make_love
+Reading concept ~make_wetter
+Reading concept ~marry
+Reading concept ~medical_improve
+Reading concept ~meet
+Reading concept ~mental_verbs
+Reading concept ~mine
+Reading concept ~misc_negative_emotions
+Reading concept ~misc_positive_emotions
+Reading concept ~motion_ill
+Reading concept ~moving_air
+Reading concept ~moving_beyond
+Reading concept ~moving_escape
+Reading concept ~moving_fast_land
+Reading concept ~moving_generic
+Reading concept ~moving_object
+Reading concept ~moving_slow_land
+Reading concept ~moving_to
+Reading concept ~moving_water
+Reading concept ~negative_social
+Reading concept ~nice_weather
+Reading concept ~nonverbal_communication_verbs
+Reading concept ~obedience_verbs
+Reading concept ~opinion_verbs
+Reading concept ~own
+Reading concept ~possess
+Reading concept ~parent
+Reading concept ~pause
+Reading concept ~perception_verbs
+Reading concept ~photographing
+Reading concept ~physicalattribute_verbs
+Reading concept ~play
+Reading concept ~play_instrument
+Reading concept ~play_sport
+Reading concept ~positive_social
+Reading concept ~possession_verbs
+Reading concept ~praise
+Reading concept ~prevent
+Reading concept ~price
+Reading concept ~promise
+Reading concept ~purchaseinterest
+Reading concept ~rain
+Reading concept ~read
+Reading concept ~reasoning_basis
+Reading concept ~reasoning_conclusion
+Reading concept ~reasoning_process
+Reading concept ~reasoning_think_verbs
+Reading concept ~reduce_containment
+Reading concept ~remain_stationary
+Reading concept ~remember
+Reading concept ~remove_magnetism
+Reading concept ~remove_smell
+Reading concept ~repair
+Reading concept ~repeat
+Reading concept ~reproduce_verbs
+Reading concept ~resurrect
+Reading concept ~role_verbs
+Reading concept ~rust
+Reading concept ~search
+Reading concept ~sell
+Reading concept ~sew
+Reading concept ~sharpen
+Reading concept ~silence
+Reading concept ~simplify
+Reading concept ~sleep
+Reading concept ~sleepstate_verbs
+Reading concept ~smell
+Reading concept ~social_reputation_verbs
+Reading concept ~social_verbs
+Reading concept ~speak_thru_device
+Reading concept ~speak_verbs
+Reading concept ~special_activities_verbs
+Reading concept ~start
+Reading concept ~steal
+Reading concept ~stomach_ill
+Reading concept ~stop_verbs
+Reading concept ~strengthen
+Reading concept ~substitute
+Reading concept ~surprise
+Reading concept ~swallow_drink_verbs
+Reading concept ~swallow_either
+Reading concept ~swallow_food_verbs
+Reading concept ~swallowing_verbs
+Reading concept ~swap
+Reading concept ~talkstyle
+Reading concept ~taste
+Reading concept ~tell
+Reading concept ~think_verbs
+Reading concept ~throw
+Reading concept ~tighten
+Reading concept ~time_delay
+Reading concept ~time_event_verbs
+Reading concept ~time_passage
+Reading concept ~tobe
+Reading concept ~involve
+Reading concept ~touch
+Reading concept ~undress
+Reading concept ~unjoin
+Reading concept ~use
+Reading concept ~vehicle_verbs
+Reading concept ~verbal_agree
+Reading concept ~verbal_disagree
+Reading concept ~verbs
+Reading concept ~videoing
+Reading concept ~vision_verbs
+Reading concept ~waken
+Reading concept ~want
+Reading concept ~watch
+Reading concept ~weaken
+Reading concept ~weather_verbs
+Reading concept ~wind
+Reading concept ~won
+Reading concept ~worship
+Reading concept ~writing
+
+<<end folder RAWDATA/ONTOLOGY
+
+>>Reading folder RAWDATA/ONTOLOGY/PARSER/
+
+----Reading file parsedata.top
+Reading concept ~misc_parsedata
+Reading concept ~causal_to_infinitive_verbs
+Reading concept ~verbs_of_perception
+Reading concept ~completeness_adjectives
+
+<<end folder RAWDATA/ONTOLOGY/PARSER
+
+----Reading file basicgeography.tbl
+Reading table tbl:~languages
+Reading table tbl:~geofact
+Reading concept ~nationalities
+Reading table tbl:~country
+Reading table tbl:~planet
+Reading concept ~countryadjective
+Reading table tbl:~countryof
+Reading table tbl:~geofact
+Reading concept ~capital
+Reading table tbl:~capital
+Reading table tbl:~geography
+Reading concept ~currency
+Reading table tbl:~currencies
+Reading table tbl:~geography
+
+----Reading file videogames.tbl
+Reading table tbl:~videogames
+
+----Reading file basicbooks.tbl
+Reading table tbl:~men
+Reading table tbl:~femalebooks
+Reading table tbl:~malebooks
+
+----Reading file basicmovies_tv.tbl
+Reading table tbl:~tv_show
+Reading table tbl:~actor
+Reading table tbl:~women
+Reading table tbl:~men
+Reading table tbl:~actress
+Reading table tbl:~directed
+Reading table tbl:~tv
+Reading table tbl:~movie
+
+----Reading file musicbasic.tbl
+Reading table tbl:~albums
+Reading table tbl:~bandleader
+Reading table tbl:~bands
+Reading table tbl:~bands1
+Reading table tbl:~men
+Reading table tbl:~women
+
+----Reading file music.tbl
+Reading concept ~song
+Reading concept ~celebrity
+Reading table tbl:celebtable
+Reading table tbl:celebtable
+Reading table tbl:celebtable
+Reading table tbl:~men
+Reading table tbl:~women
+
+----Reading file malepeople.tbl
+Reading table tbl:~moremen
+Reading table tbl:~mostman
+Reading table tbl:~men
+Reading table tbl:~males
+Reading table tbl:~man
+Reading table tbl:~men
+
+----Reading file femalepeople.tbl
+Reading concept ~designer
+Reading table tbl:~women
+Reading concept ~career
+Reading table tbl:~women
+
+----Reading file peoplegroups.tbl
+Reading concept ~nfc-west_football_team
+Reading concept ~nfc-east_football_team
+Reading concept ~afc-west_football_team
+Reading concept ~afc-east_football_team
+Reading concept ~nfc-north_football_team
+Reading concept ~nfc-south_football_team
+Reading concept ~afc-south_football_team
+Reading concept ~afc-north_football_team
+Reading concept ~football_teams
+Reading table tbl:~groups
+Reading table tbl:nickname
+
+----Reading file cars.tbl
+Reading concept ~car_names
+Reading table tbl:~car_names
+
+----Reading file things.tbl
+Reading concept ~electronics_store
+Reading concept ~grocery
+Reading table tbl:~storeinfo
+Reading concept ~hot_things
+Reading concept ~cold_things
+Reading table tbl:temperature
+Reading concept ~wherefrom
+Reading concept ~produces
+Reading table tbl:~source
+Reading table tbl:~shapeof
+Reading table tbl:~sellers
+Reading concept ~soundmaker
+Reading concept ~animalsoundsissued
+Reading table tbl:~soundmaker
+Reading table tbl:~beings
+Reading concept ~newspaper
+Reading concept ~airline
+Reading table tbl:~manmade
+Reading table tbl:~items
+Reading table tbl:~companies
+
+----Reading file stop.top
+Reading concept ~stophierarchy
+
+----Reading file animals.tbl
+Reading table tbl:~adultchild
+Reading table tbl:~lcthings1
+Reading concept ~animal_homes
+Reading table tbl:~lcthings1
+
+----Reading file color.tbl
+Reading table tbl:~colorof
+
+----Reading file speed.tbl
+Reading table tbl:~xspeed
+
+----Reading file lifespan.tbl
+Reading table tbl:~xlifespan
+
+----Reading file time.top
+Reading patternmacro: ^timecheck
+Reading table tbl:~order
+Reading table tbl:~order
+Reading table tbl:~order1
+Reading topic ~xfinddayreference
+Reading topic ~xtime
+Reading topic ~xfindtime
+*** Warning- line 671 of time.top: Substitutes.txt changes at_this_moment to now anywhere in input
+Reading topic ~xdecidepasttime
+Reading topic ~xdecidefuturetime
+Reading topic ~xdecidecurrenttime
+*** Warning- line 0 of math.top: Missing file RAWDATA/PRIVATE/ANGELA/GENERAL/math.top
+
+----Reading file favorites.top
+Reading concept ~humanbeing
+Reading concept ~normalcreature
+Reading table tbl:humancomponent
+Reading table tbl:nametable
+Reading table tbl:locations
+Reading table tbl:wherework
+Reading topic ~xexample
+Reading topic ~xfave
+Reading topic ~xhate
+
+----Reading file why.top
+Reading topic ~whytopic
+
+----Reading file measure.top
+Reading patternmacro: ^howmuch
+Reading outputmacro: ^stdconvert
+Reading concept ~convertphrase
+Reading topic ~xmeasure
+*** Warning- line 22 of measure.top: Word ghz only known in opposite case
+*** Warning- line 22 of measure.top: hz is not a known word. Is it misspelled?
+*** Warning- line 22 of measure.top: Word khz only known in opposite case
+*** Warning- line 23 of measure.top: Word mhz only known in opposite case
+*** Warning- line 56 of measure.top: € is not a known word. Is it misspelled?
+*** Warning- line 0 of comparison.top: Missing file RAWDATA/PRIVATE/ANGELA/GENERAL/comparison.top
+
+----Reading file sensation.top
+Reading concept ~naughty_words
+Reading topic ~sensation
+
+----Reading file eliza_because.top
+Reading topic ~xeliza_because
+
+----Reading file eliza_not.top
+Reading topic ~xeliza_not
+
+----Reading file eliza_will.top
+Reading topic ~xeliza_will
+
+----Reading file eliza_where.top
+Reading topic ~xeliza_where
+
+----Reading file eliza_when.top
+Reading topic ~xeliza_when
+
+----Reading file eliza_or.top
+Reading topic ~xeliza_or
+
+----Reading file eliza_what.top
+Reading topic ~xeliza_what
+
+----Reading file eliza_who.top
+Reading topic ~xeliza_who
+
+----Reading file eliza_why.top
+Reading topic ~xeliza_why
+
+----Reading file eliza_how.top
+Reading topic ~xeliza_how
+
+----Reading file eliza_howmuch.top
+Reading topic ~xeliza_howmuch
+
+----Reading file eliza_howmany.top
+Reading topic ~xeliza_howmany
+
+----Reading file eliza_can.top
+Reading topic ~xeliza_can
+
+----Reading file eliza_do.top
+Reading topic ~xeliza_do
+
+----Reading file eliza_miscpre.top
+Reading table tbl:roman
+Reading topic ~xgeneralfacts
+*** Warning- line 272 of eliza_miscpre.top: monowheel is not a known word. Is it misspelled?
+Reading topic ~xeliza_pre
+*** Warning- line 557 of eliza_miscpre.top: xyz is not a known word. Is it misspelled?
+*** Warning- line 560 of eliza_miscpre.top: abcdefg is not a known word. Is it misspelled?
+*** Warning- line 675 of eliza_miscpre.top: Interjections.txt changes also> to ~emomutual at input end
+*** Warning- line 1159 of eliza_miscpre.top: pwn is not a known word. Is it misspelled?
+*** Warning- line 1159 of eliza_miscpre.top: Texting.txt changes pwn to dominate anywhere in input
+
+----Reading file eliza_miscpost.top
+Reading topic ~xeliza_misc
+*** Warning- line 230 of eliza_miscpost.top: Interjections.txt changes <it_is> to ~yes as entire input
+*** Warning- line 1206 of eliza_miscpost.top: mudkips is not a known word. Is it misspelled?
+*** Warning- line 1206 of eliza_miscpost.top: mudkipz is not a known word. Is it misspelled?
+
+----Reading file eliza_misc.top
+Reading topic ~xbethenyou
+Reading topic ~xposadjverbs
+Reading topic ~xnegadjverbs
+Reading topic ~xneutraladjverbs
+
+----Reading file insultpraise.top
+Reading concept ~insultstuff
+Reading concept ~androidcurse
+Reading topic ~xinsultpraise
+*** Warning- line 197 of insultpraise.top: Spelling.txt changes kitty to kitten anywhere in input
+
+----Reading file allergy.top
+Reading topic ~allergies
+
+----Reading file alternativemedicine.top
+Reading topic ~alternative_medicine
+*** Warning- line 2 of alternativemedicine.top: chiropracty is not a known word. Is it misspelled?
+
+----Reading file amazon.top
+Reading topic ~amazon
+
+----Reading file art.top
+Reading topic ~art
+Reading table tbl:favorites
+Reading topic ~artkind_react
+Reading topic ~art_museum_react
+Reading topic ~artwork_in_school
+Reading topic ~painting
+*** Warning- line 523 of art.top: easil is not a known word. Is it misspelled?
+Reading topic ~sculpture
+
+----Reading file doodle.top
+Reading topic ~doodling
+
+----Reading file astrology.top
+Reading topic ~astrology
+*** Warning- line 234 of astrology.top: Substitutes.txt changes Apr to April anywhere in input
+*** Warning- line 235 of astrology.top: Substitutes.txt changes Apr to April anywhere in input
+*** Warning- line 236 of astrology.top: Substitutes.txt changes Jun to June anywhere in input
+*** Warning- line 237 of astrology.top: Substitutes.txt changes Jun to June anywhere in input
+*** Warning- line 238 of astrology.top: Substitutes.txt changes Aug to August anywhere in input
+*** Warning- line 239 of astrology.top: Substitutes.txt changes Aug to August anywhere in input
+*** Warning- line 239 of astrology.top: Substitutes.txt changes Sep to September anywhere in input
+*** Warning- line 239 of astrology.top: Substitutes.txt changes Sept to September anywhere in input
+*** Warning- line 240 of astrology.top: Substitutes.txt changes Sep to September anywhere in input
+*** Warning- line 240 of astrology.top: Substitutes.txt changes Sept to September anywhere in input
+*** Warning- line 240 of astrology.top: Substitutes.txt changes Oct to October anywhere in input
+*** Warning- line 241 of astrology.top: Substitutes.txt changes Oct to October anywhere in input
+*** Warning- line 241 of astrology.top: Substitutes.txt changes Nov to November anywhere in input
+*** Warning- line 242 of astrology.top: Substitutes.txt changes Nov to November anywhere in input
+*** Warning- line 242 of astrology.top: Substitutes.txt changes Dec to December anywhere in input
+*** Warning- line 243 of astrology.top: Substitutes.txt changes Dec to December anywhere in input
+*** Warning- line 243 of astrology.top: Substitutes.txt changes Jan to January anywhere in input
+*** Warning- line 244 of astrology.top: Substitutes.txt changes Jan to January anywhere in input
+*** Warning- line 244 of astrology.top: Substitutes.txt changes Feb to February anywhere in input
+*** Warning- line 245 of astrology.top: Substitutes.txt changes Feb to February anywhere in input
+
+----Reading file books.top
+Reading topic ~books
+*** Warning- line 362 of books.top: British.txt changes grey to gray anywhere in input
+Reading table tbl:bookfavorites
+Reading table tbl:doyou
+Reading topic ~book_react
+
+----Reading file magazine.top
+Reading topic ~magazines
+*** Warning- line 3 of magazine.top: magsk is not a known word. Is it misspelled?
+Reading table tbl:magazinefavorites
+
+----Reading file charity.top
+Reading topic ~charity
+Reading table tbl:moneyfavorits
+
+----Reading file childhood.top
+Reading topic ~childhood
+*** Warning- line 3 of childhood.top: kittenhood is not a known word. Is it misspelled?
+Reading topic ~disease_react
+
+----Reading file craigslist.top
+Reading topic ~craigslist
+
+----Reading file dancing.top
+Reading topic ~dancing
+*** Warning- line 4 of dancing.top: nitelife is not a known word. Is it misspelled?
+Reading table tbl:dancefavorites
+Reading table tbl:howoften
+
+----Reading file daily.top
+Reading topic ~daily_activities
+*** Warning- line 123 of daily.top: Substitutes.txt changes FB to FaceBook anywhere in input
+*** Warning- line 125 of daily.top: Substitutes.txt changes FB to FaceBook anywhere in input
+Reading table tbl:dailyfavorites
+Reading table tbl:hates
+Reading concept ~activityinfo
+Reading table tbl:various
+Reading topic ~xactivitystuff
+Reading table tbl:~days
+Reading topic ~xwhathappen
+
+----Reading file dairy.top
+Reading topic ~dairy
+*** Warning- line 10 of dairy.top: British.txt changes yoghurt to yogurt anywhere in input
+
+----Reading file dating.top
+Reading topic ~dating
+Reading table tbl:doyou
+Reading topic ~flatmates_dating_story
+
+----Reading file designers.top
+Reading topic ~designers
+
+----Reading file disaster.top
+Reading topic ~disasters
+*** Warning- line 173 of disaster.top: vs is not a known word. Is it misspelled?
+
+----Reading file dream.top
+Reading topic ~dreams
+Reading topic ~dream_react
+
+----Reading file drink.top
+Reading topic ~drinks
+Reading table tbl:boozefavorites
+Reading table tbl:drinkfavorites
+Reading table tbl:howoften
+
+----Reading file ebay.top
+Reading topic ~ebay
+
+----Reading file eco.top
+Reading topic ~ecology
+Reading topic ~tiger_charity_story
+
+----Reading file exercise.top
+Reading topic ~exercise
+
+----Reading file facebook.top
+Reading topic ~facebook
+
+----Reading file family.top
+Reading topic ~family
+Reading table tbl:doyou
+
+----Reading file fashion.top
+Reading topic ~fashion
+Reading table tbl:fashionfavorites
+Reading table tbl:doyou
+
+----Reading file food.top
+Reading concept ~angela_dislikes
+Reading concept ~angela_likes
+Reading topic ~restaurants
+Reading topic ~foods
+*** Warning- line 50 of food.top: fishetarian is not a known word. Is it misspelled?
+*** Warning- line 50 of food.top: mansaf is not a known word. Is it misspelled?
+Reading topic ~food_react
+*** Warning- line 668 of food.top: Substitutes.txt changes Britain to Great+Britain anywhere in input
+Reading topic ~rat_story
+Reading table tbl:hates
+Reading table tbl:foodfavorites
+Reading table tbl:doyou
+
+----Reading file friends.top
+Reading topic ~friends
+
+----Reading file future.top
+Reading topic ~future
+
+----Reading file gadgets.top
+Reading topic ~gadgets
+Reading table tbl:favorites
+Reading table tbl:doyou
+
+----Reading file game.top
+Reading topic ~games
+*** Warning- line 85 of game.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+*** Warning- line 97 of game.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+*** Warning- line 105 of game.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+*** Warning- line 126 of game.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+*** Warning- line 130 of game.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+Reading table tbl:gamefavorites
+Reading table tbl:doyou
+
+----Reading file hobbies.top
+Reading topic ~hobbies
+*** Warning- line 110 of hobbies.top: Interjections.txt changes also> to ~emomutual at input end
+Reading topic ~user_hobby
+Reading topic ~hobby_react
+*** Warning- line 320 of hobbies.top: mtb is not a known word. Is it misspelled?
+Reading table tbl:favorites
+Reading topic ~hat_story
+Reading topic ~design_story
+
+----Reading file jewelry.top
+Reading topic ~jewelry
+
+----Reading file icecream.top
+Reading topic ~ice_cream
+
+----Reading file jokes.top
+Reading topic ~knock_knock_jokes
+*** Warning- line 5 of jokes.top: Word bella only known in opposite case
+Reading topic ~knockknock
+Reading topic ~jokes
+Reading topic ~quip
+
+----Reading file ladygaga.top
+Reading topic ~lady_gaga
+Reading topic ~gaga_dress_story
+
+----Reading file lies.top
+Reading topic ~lies
+
+----Reading file lifechoices.top
+Reading topic ~life_choices
+
+----Reading file lottery.top
+Reading topic ~lottery
+
+----Reading file becomingrich.top
+Reading topic ~becoming_rich
+
+----Reading file money.top
+Reading topic ~money
+
+----Reading file movies.top
+Reading topic ~movies
+Reading topic ~moviegenre_react
+Reading table tbl:filmfavorites
+Reading topic ~movie_react
+
+----Reading file music.top
+Reading topic ~music
+*** Warning- line 11 of music.top: lp is not a known word. Is it misspelled?
+Reading topic ~band_react
+Reading topic ~music_react
+Reading table tbl:musicfavorites
+Reading topic ~kitty_band_story
+
+----Reading file parentmusic.top
+Reading topic ~classical_music
+
+----Reading file musicalinstrument.top
+Reading topic ~musical_instruments
+Reading table tbl:instrumentfavorites
+
+----Reading file newage.top
+Reading topic ~new_age
+
+----Reading file news.top
+Reading topic ~news
+*** Warning- line 455 of news.top: Substitutes.txt changes FB to FaceBook anywhere in input
+
+----Reading file organdonor.top
+Reading topic ~organ_donors
+
+----Reading file oscars.top
+Reading topic ~oscars
+
+----Reading file parties.top
+Reading topic ~parties
+*** Warning- line 292 of parties.top: Substitutes.txt changes Xmas to Christmas anywhere in input
+Reading topic ~outdoor_party_story
+
+----Reading file pets.top
+Reading topic ~pets
+Reading table tbl:petfavorites
+Reading table tbl:doyou
+Reading topic ~pet_react
+
+----Reading file phone.top
+Reading topic ~phones
+*** Warning- line 15 of phone.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+*** Warning- line 149 of phone.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+*** Warning- line 266 of phone.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+
+----Reading file photography.top
+Reading topic ~photography
+
+----Reading file prom.top
+Reading topic ~prom
+Reading topic ~prom_clothes
+
+----Reading file recycling.top
+Reading topic ~recycling
+
+----Reading file school.top
+Reading topic ~school
+*** Warning- line 13 of school.top: eduation is not a known word. Is it misspelled?
+Reading topic ~subject_react
+Reading table tbl:schoolfavorites
+Reading topic ~bully_story
+Reading topic ~classes
+Reading topic ~after_school_activities
+Reading topic ~school_behavior
+
+----Reading file science.top
+Reading topic ~science
+Reading topic ~science_react
+
+----Reading file self.top
+Reading topic ~geographic_self
+Reading topic ~physical_self
+*** Warning- line 59 of self.top: gorgous is not a known word. Is it misspelled?
+Reading topic ~psychological_self
+Reading topic ~cathumans
+*** Warning- line 759 of self.top: catus is not a known word. Is it misspelled?
+*** Warning- line 874 of self.top: fabulatus is not a known word. Is it misspelled?
+Reading topic ~cat_evolution_story
+Reading topic ~about_you
+
+----Reading file onlineshopping.top
+Reading topic ~online_shopping
+
+----Reading file shopping.top
+Reading topic ~shopping
+*** Warning- line 34 of shopping.top: Substitutes.txt changes USA to U.S.A. anywhere in input
+Reading table tbl:shoppingfavorites
+Reading table tbl:howoften
+
+----Reading file singing.top
+Reading topic ~singing
+
+----Reading file sleep.top
+Reading topic ~sleeping
+
+----Reading file socialnetworking.top
+Reading topic ~social_networking
+Reading table tbl:favorites
+
+----Reading file spacetravel.top
+Reading topic ~space_travel
+
+----Reading file style.top
+Reading topic ~style
+
+----Reading file stealing.top
+Reading topic ~stealing
+
+----Reading file suicide.top
+Reading topic ~suicide
+*** Warning- line 19 of suicide.top: Substitutes.txt changes USA to U.S.A. anywhere in input
+
+----Reading file summerjobs.top
+Reading topic ~summer_jobs
+*** Warning- line 285 of summerjobs.top: Interjections.txt changes also> to ~emomutual at input end
+Reading topic ~rich_client_story
+Reading topic ~blog_story
+*** Warning- line 551 of summerjobs.top: Interjections.txt changes <fat_chance to ~no at input start
+*** Warning- line 701 of summerjobs.top: Substitutes.txt changes pop_star to popstar anywhere in input
+Reading topic ~tv_job_story
+
+----Reading file sympathy.top
+Reading topic ~your_problem
+Reading topic ~problem_react
+Reading topic ~depression
+Reading topic ~depression_react
+Reading topic ~depression_story
+Reading topic ~anger
+Reading topic ~happiness
+Reading topic ~happy_react
+Reading topic ~fear
+Reading topic ~fear_react
+Reading topic ~stress
+Reading topic ~stress_react
+Reading topic ~stress_cure
+
+----Reading file talkingfriendsuniverse.top
+Reading topic ~talking_larry
+Reading topic ~talking_ben
+*** Warning- line 47 of talkingfriendsuniverse.top: Interjections.txt changes <bad_luck> to ~emosad as entire input
+Reading topic ~talking_pierre
+Reading topic ~talking_ginger
+Reading topic ~talking_gina
+Reading topic ~ben_lab_story
+Reading topic ~ginger_santa_story
+Reading topic ~pierre_shower_story
+Reading topic ~meeting_tom_story
+
+----Reading file target.top
+Reading topic ~target
+
+----Reading file travel.top
+Reading topic ~travel
+*** Warning- line 9 of travel.top: travelbook is not a known word. Is it misspelled?
+*** Warning- line 108 of travel.top: Substitutes.txt changes NYC to New+York+City anywhere in input
+*** Warning- line 149 of travel.top: Interjections.txt changes also> to ~emomutual at input end
+*** Warning- line 255 of travel.top: British.txt changes licence to license anywhere in input
+Reading table tbl:doyou
+Reading table tbl:favorites
+Reading topic ~travel_react
+
+----Reading file tv.top
+Reading topic ~tv
+*** Warning- line 5 of tv.top: dvr is not a known word. Is it misspelled?
+*** Warning- line 7 of tv.top: programme is not a known word. Is it misspelled?
+*** Warning- line 7 of tv.top: tele is not a known word. Is it misspelled?
+*** Warning- line 103 of tv.top: Interjections.txt changes also> to ~emomutual at input end
+*** Warning- line 480 of tv.top: Uppercase keyword Lost is usually a verb.  Did prior rule fail to close
+Reading topic ~tv_react
+Reading table tbl:favorites
+Reading topic ~tom_tv_story
+Reading topic ~daily_show
+
+----Reading file videogames.top
+Reading topic ~videogames
+Reading table tbl:videogamefavorites
+
+----Reading file weather.top
+Reading topic ~weather
+Reading table tbl:weatherfavorites
+
+----Reading file celebrities.top
+Reading concept ~celeb_websites
+Reading topic ~celebrities
+*** Warning- line 11 of celebrities.top: smize is not a known word. Is it misspelled?
+*** Warning- line 11 of celebrities.top: smizing is not a known word. Is it misspelled?
+*** Warning- line 68 of celebrities.top: Substitutes.txt changes FB to FaceBook anywhere in input
+*** Warning- line 70 of celebrities.top: Keyword ET should not be uppercase - did prior rule fail to close
+*** Warning- line 281 of celebrities.top: Substitutes.txt changes FB to FaceBook anywhere in input
+*** Warning- line 428 of celebrities.top: Substitutes.txt changes pop_star to popstar anywhere in input
+*** Warning- line 493 of celebrities.top: belieber is not a known word. Is it misspelled?
+Reading topic ~met_ball_story
+*** Warning- line 547 of celebrities.top: metball is not a known word. Is it misspelled?
+Reading topic ~chanel_story
+Reading topic ~crying_fan_story
+Reading topic ~celebrity_brand_story
+Reading topic ~gwen_stefani_story
+Reading topic ~dress_up_story
+Reading topic ~brangelina
+Reading topic ~jlo
+Reading topic ~leonardo_dicaprio
+Reading topic ~beyonce
+Reading topic ~whitney_houston
+Reading topic ~katy_perry
+Reading topic ~taylor_swift
+*** Warning- line 1211 of celebrities.top: Spelling.txt changes kitty to kitten anywhere in input
+Reading topic ~jenni_lawrence
+*** Warning- line 1262 of celebrities.top: Substitutes.txt changes FB to FaceBook anywhere in input
+*** Warning- line 1265 of celebrities.top: Substitutes.txt changes bro to brother anywhere in input
+Reading topic ~metball_react
+Reading topic ~celebbrand_react
+Reading topic ~celebcouple_react
+*** Warning- line 1459 of celebrities.top: Texting.txt changes BF to boyfriend anywhere in input
+*** Warning- line 1593 of celebrities.top: Substitutes.txt changes how_come to why+do anywhere in input
+Reading topic ~celeb_react
+*** Warning- line 1711 of celebrities.top: Substitutes.txt changes how_come to why+do anywhere in input
+*** Warning- line 1814 of celebrities.top: directioner is not a known word. Is it misspelled?
+Reading table tbl:celebrityfavorites
+
+----Reading file general.top
+Reading topic ~magic
+Reading topic ~esp
+Reading topic ~abortion
+*** Warning- line 74 of general.top: ru is not a known word. Is it misspelled?
+Reading topic ~animal_kingdom
+Reading topic ~animal_rights
+Reading topic ~automobiles
+*** Warning- line 135 of general.top: stopsign is not a known word. Is it misspelled?
+*** Warning- line 139 of general.top: British.txt changes licence to license anywhere in input
+Reading table tbl:doyou
+Reading topic ~cartoons
+Reading table tbl:cartoonfavorites
+Reading topic ~chatbots
+Reading table tbl:robotfavorites
+Reading topic ~city_life
+Reading topic ~climate
+*** Warning- line 344 of general.top: Word celcius only known in opposite case
+*** Warning- line 345 of general.top: Word fahrenheit only known in opposite case
+Reading topic ~conversation
+*** Warning- line 376 of general.top: convos is not a known word. Is it misspelled?
+Reading topic ~drugs
+Reading topic ~foreign_languages
+*** Warning- line 501 of general.top: Word ebonics only known in opposite case
+*** Warning- line 501 of general.top: nihongo is not a known word. Is it misspelled?
+*** Warning- line 501 of general.top: schade is not a known word. Is it misspelled?
+Reading table tbl:gardeningfavorites
+Reading topic ~health
+Reading topic ~home
+Reading topic ~illness_react
+Reading topic ~porn
+Reading topic ~inappropriate_advances
+*** Warning- line 838 of general.top: couchez is not a known word. Is it misspelled?
+Reading topic ~indoor_activities
+Reading topic ~internet
+*** Warning- line 998 of general.top: Word www only known in opposite case
+Reading topic ~living
+Reading table tbl:doyou
+Reading table tbl:doyou
+Reading topic ~math
+*** Warning- line 1173 of general.top: sqrt is not a known word. Is it misspelled?
+Reading topic ~name_some_things
+Reading topic ~outdoors
+Reading topic ~philosophy
+Reading table tbl:favorites
+Reading topic ~poetry
+Reading topic ~politics
+*** Warning- line 1380 of general.top: plebescite is not a known word. Is it misspelled?
+Reading topic ~religion
+*** Warning- line 1407 of general.top: Word parrish only known in opposite case
+*** Warning- line 1407 of general.top: pastafarianism is not a known word. Is it misspelled?
+Reading topic ~vampires
+*** Warning- line 1457 of general.top: chupacabra is not a known word. Is it misspelled?
+*** Warning- line 1458 of general.top: Word transylvania only known in opposite case
+Reading topic ~work_react
+*** Warning- line 1543 of general.top: sysadmin is not a known word. Is it misspelled?
+Reading topic ~work
+*** Warning- line 1848 of general.top: Substitutes.txt changes USA to U.S.A. anywhere in input
+Reading table tbl:workfavorites
+Reading table tbl:favorites
+
+----Reading file keywordless.top
+Reading concept ~outfit7characters
+Reading concept ~knownnames
+Reading topic ~keywordless
+*** Warning- line 127 of keywordless.top: wepisode is not a known word. Is it misspelled?
+*** Warning- line 127 of keywordless.top: webisode is not a known word. Is it misspelled?
+*** Warning- line 133 of keywordless.top: Texting.txt changes LOL to ~emolaugh anywhere in input
+*** Warning- line 378 of keywordless.top: British.txt changes axe to ax anywhere in input
+
+----Reading file frenchtranslate.top
+Reading concept ~french_vocabulary
+Reading table tbl:frenchwords
+Reading topic ~xtranslate
+
+----Reading file specialty.top
+Reading concept ~issueforth
+Reading topic ~trick_questions
+*** Warning- line 25 of specialty.top: Word sudo only known in opposite case
+*** Warning- line 516 of specialty.top: illuminatus is not a known word. Is it misspelled?
+*** Warning- line 516 of specialty.top: sije is not a known word. Is it misspelled?
+*** Warning- line 534 of specialty.top: potemnite is not a known word. Is it misspelled?
+*** Warning- line 534 of specialty.top: tenebras is not a known word. Is it misspelled?
+Reading topic ~xcanyou
+Reading topic ~xhowoften
+Reading topic ~xanti_siri
+Reading topic ~color
+Reading table tbl:~die
+Reading outputmacro: ^randgenerate
+Reading topic ~iching
+*** Warning- line 1209 of specialty.top: iching is not a known word. Is it misspelled?
+Reading topic ~mock_combat
+Reading topic ~hear_a_story
+
+----Reading file idioms.tbl
+Reading table tbl:marktable
+*** Warning- line 63 of idioms.tbl: _ is not a recognized _rename. Is it intended to be?
+*** Warning- line 64 of idioms.tbl: _ is not a recognized _rename. Is it intended to be?
+
+----Reading file parser.top
+Reading concept ~pleonit
+Reading concept ~pleonthat
+Reading concept ~pleonasticprep
+Reading concept ~pleonasticbe
+Reading concept ~pleonasticadverb
+Reading concept ~pleonasticverb
+Reading concept ~pleonasticmodifier
+Reading topic ~xtagquestions
+Reading topic ~xfixpronoun
+Reading topic ~xfixsentence
+*** Warning- line 332 of parser.top: Substitutes.txt changes fave to favorite anywhere in input
+*** Warning- line 377 of parser.top: Texting.txt changes u to you anywhere in input
+*** Warning- line 387 of parser.top: Interjections.txt changes <I_do_not> to ~no as entire input
+Reading topic ~xunused_resolvepronoun
+
+----Reading file systemtopics.top
+Reading topic ~xeliza_all
+Reading topic ~xtable_responses
+Reading topic ~xintent
+Reading topic ~xintent_honest_response
+Reading topic ~xconversation_control
+Reading topic ~xbasiccontrol
+Reading topic ~xnoresponse
+Reading topic ~xtestmore
+Reading topic ~xpostprocess
+Reading topic ~xreferences
+*** Warning- line 453 of systemtopics.top: Substitutes.txt changes lbs to pounds anywhere in input
+Reading topic ~process1
+Reading topic ~xyesnoanswer
+Reading topic ~xanswered
+
+----Reading file topiccontrol.top
+Reading concept ~xmaletopics
+Reading concept ~xfemaletopics
+*** Warning- line 6 of topiccontrol.top: Word oscars only known in opposite case
+Reading concept ~xculture
+Reading concept ~xplay
+Reading concept ~xshop
+Reading concept ~xholiday
+Reading concept ~xbeauty
+Reading concept ~xscience
+Reading concept ~xanimal
+Reading concept ~xguidance
+Reading concept ~xhealth
+Reading concept ~xsociety
+Reading concept ~xrelationship
+Reading concept ~xcelebrity
+Reading concept ~xfood
+*** Warning- line 24 of topiccontrol.top: planche is not a known word. Is it misspelled?
+*** Warning- line 24 of topiccontrol.top: Word brie only known in opposite case
+*** Warning- line 24 of topiccontrol.top: Word camembert only known in opposite case
+*** Warning- line 24 of topiccontrol.top: Word roquefort only known in opposite case
+Reading concept ~xecology
+Reading concept ~xtransport
+Reading concept ~xtravel
+Reading concept ~xnews
+Reading concept ~xtalking_friend
+Reading concept ~xalltopics
+Reading concept ~xstory
+Reading concept ~age_locked_topics
+Reading topic ~xagetopic
+Reading topic ~xrandomtopic
+Reading topic ~xask1
+Reading topic ~xasktopic
+Reading topic ~xinfertopic
+Reading topic ~xendtopic
+Reading topic ~xstorycontrol
+Reading topic ~xchange_topic
+
+----Reading file angelacontrol.top
+Reading concept ~thatreference
+Reading topic ~xpre_control
+Reading topic ~xpost_control
+Reading topic ~xmain_control
+Reading topic ~xresponders
+Reading topic ~xmain_subcontrol
+
+----Reading file angelabot.top
+Reading table tbl:defaultbot
+Reading outputmacro: ^angela
+
+----Reading file name.top
+Reading topic ~xsex
+Reading topic ~xage
+Reading outputmacro: ^fixnamewithmore
+Reading topic ~xname
+Reading concept ~nonverbs
+Reading topic ~xfacts_about_you
+
+----Reading file hubs.top
+Reading topic ~couture_cafe
+*** Warning- line 99 of hubs.top: garcon is not a known word. Is it misspelled?
+Reading topic ~general_conversation
+Reading topic ~paris
+Reading topic ~stories
+
+----Reading file accident.top
+Reading topic ~accidents
+*** Warning- line 69 of accident.top: Substitutes.txt changes cellphone to cell+phone anywhere in input
+
+----Reading file airconditioning.top
+Reading topic ~air_conditioning
+*** Warning- line 112 of airconditioning.top: Word mister only known in opposite case
+
+----Reading file airpollution.top
+Reading topic ~air_pollution
+*** Warning- line 45 of airpollution.top: Spelling.txt changes Cincinatti to Cincinnati anywhere in input
+
+----Reading file airtravel.top
+Reading topic ~air_travel
+*** Warning- line 3 of airtravel.top: jetsetter is not a known word. Is it misspelled?
+*** Warning- line 3 of airtravel.top: jetset is not a known word. Is it misspelled?
+
+----Reading file aliens.top
+Reading topic ~aliens
+*** Warning- line 76 of aliens.top: Keyword ET should not be uppercase - did prior rule fail to close
+
+----Reading file altruism.top
+Reading topic ~altruism
+
+----Reading file athletics.top
+Reading topic ~athletics
+Reading table tbl:doyou
+
+----Reading file beach.top
+Reading topic ~beach_fun
+Reading table tbl:favorites
+Reading table tbl:doyou
+
+----Reading file beauty.top
+Reading topic ~beauty_tips
+
+----Reading file bees.top
+Reading topic ~bees
+
+----Reading file bicycle.top
+Reading topic ~bicycles
+
+----Reading file birds.top
+Reading topic ~birds
+Reading topic ~vulture_story
+Reading topic ~bird_fishing_story
+Reading topic ~bird_react
+*** Warning- line 394 of birds.top: British.txt changes grey to gray anywhere in input
+*** Warning- line 402 of birds.top: Word steller only known in opposite case
+*** Warning- line 466 of birds.top: Word picidae only known in opposite case
+
+----Reading file boatstory.top
+Reading topic ~boat_story
+
+----Reading file burgers.top
+Reading topic ~burgers
+
+----Reading file busking.top
+Reading topic ~busking_story
+*** Warning- line 4 of busking.top: troubador is not a known word. Is it misspelled?
+
+----Reading file cheese.top
+Reading topic ~cheese
+*** Warning- line 7 of cheese.top: fromage is not a known word. Is it misspelled?
+Reading topic ~cheese_react
+*** Warning- line 265 of cheese.top: Époisses is not a known word. Is it misspelled?
+Reading table tbl:foodfavorites
+Reading table tbl:hates
+Reading topic ~brie
+Reading topic ~camembert
+Reading topic ~roquefort
+Reading topic ~cheese_shops
+Reading topic ~cheese_history
+
+----Reading file carineroitfeld.top
+Reading topic ~carine_roitfeld
+
+----Reading file ceilingfans.top
+Reading topic ~ceiling_fans
+
+----Reading file closets.top
+Reading topic ~closets
+
+----Reading file creditcard.top
+Reading topic ~credit_cards
+
+----Reading file chocolate.top
+Reading topic ~chocolate
+*** Warning- line 25 of chocolate.top: moelleux is not a known word. Is it misspelled?
+*** Warning- line 73 of chocolate.top: Substitutes.txt changes nada to nothing anywhere in input
+
+----Reading file cloningparis.top
+Reading topic ~cloning_paris
+
+----Reading file cloud.top
+Reading topic ~clouds
+*** Warning- line 98 of cloud.top: British.txt changes grey to gray anywhere in input
+
+----Reading file collecting.top
+Reading topic ~collecting
+
+----Reading file counterfeiting.top
+Reading topic ~counterfeiting
+
+----Reading file coffee.top
+Reading topic ~coffee
+*** Warning- line 6 of coffee.top: barrista is not a known word. Is it misspelled?
+
+----Reading file creativity.top
+Reading topic ~creativity
+
+----Reading file crowdsourcing.top
+Reading concept ~medialist
+Reading topic ~crowdsourcing
+Reading topic ~media_react
+
+----Reading file dieting.top
+Reading topic ~dieting
+*** Warning- line 36 of dieting.top: pescetarian is not a known word. Is it misspelled?
+
+----Reading file dogpoop.top
+Reading topic ~dog_poop
+
+----Reading file dateadvice.top
+Reading topic ~dating_advice
+Reading topic ~just_friends_story
+Reading topic ~slow_call_story
+Reading topic ~nice_guy_story
+Reading topic ~hot_cold_story
+Reading topic ~call_failure_story
+
+----Reading file dinosaur.top
+Reading topic ~dinosaurs
+Reading topic ~dinosaur_react
+
+----Reading file dragonfly.top
+Reading topic ~dragonflies
+Reading topic ~dragonfly_fairy_story
+
+----Reading file eiffeltower.top
+Reading topic ~eiffel_tower_story
+*** Warning- line 239 of eiffeltower.top: Substitutes.txt changes fave to favorite anywhere in input
+Reading topic ~eiffel_tower_history
+*** Warning- line 514 of eiffeltower.top: Substitutes.txt changes fave to favorite anywhere in input
+
+----Reading file electriccar.top
+Reading topic ~electric_cars
+
+----Reading file embarrassment.top
+Reading topic ~embarrassment
+Reading topic ~embarrassing_moment_story
+
+----Reading file enthusiasm.top
+Reading topic ~enthusiasm
+
+----Reading file fads.top
+Reading topic ~fads
+
+----Reading file fannypack.top
+Reading topic ~fanny_packs
+
+----Reading file fairy.top
+Reading topic ~fairies
+*** Warning- line 1 of fairy.top: elementals is not a known word. Is it misspelled?
+*** Warning- line 2 of fairy.top: sith is not a known word. Is it misspelled?
+*** Warning- line 2 of fairy.top: sidhe is not a known word. Is it misspelled?
+
+----Reading file fashiontips.top
+Reading topic ~dressing_tips
+*** Warning- line 16 of fashiontips.top: fashionista is not a known word. Is it misspelled?
+*** Warning- line 86 of fashiontips.top: waisted is not a known word. Is it misspelled?
+*** Warning- line 328 of fashiontips.top: trenchcoat is not a known word. Is it misspelled?
+
+----Reading file fidgeting.top
+Reading topic ~fidgeting
+
+----Reading file fishing.top
+Reading topic ~fishing
+
+----Reading file frogs.top
+Reading topic ~frogs
+
+----Reading file fleamarket.top
+Reading topic ~flea_markets
+
+----Reading file french.top
+Reading topic ~french_language
+*** Warning- line 1 of french.top: putain is not a known word. Is it misspelled?
+*** Warning- line 1 of french.top: beauf is not a known word. Is it misspelled?
+*** Warning- line 143 of french.top: sympa is not a known word. Is it misspelled?
+
+----Reading file frenchinfo.top
+Reading topic ~minor_characters
+Reading concept ~parisfrance
+Reading topic ~frenchinfo_react
+*** Warning- line 567 of frenchinfo.top: Interjections.txt changes goodbye to ~emogoodbye anywhere in input
+*** Warning- line 885 of frenchinfo.top: Spelling.txt changes travelling to traveling anywhere in input
+*** Warning- line 993 of frenchinfo.top: Substitutes.txt changes USA to U.S.A. anywhere in input
+
+----Reading file frenchlies.top
+Reading topic ~doublespeak
+
+----Reading file gargoyles.top
+Reading topic ~gargoyles_story
+
+----Reading file guncontrol.top
+Reading topic ~gun_control
+*** Warning- line 194 of guncontrol.top: Substitutes.txt changes Britain to Great+Britain anywhere in input
+
+----Reading file gutbacteria.top
+Reading topic ~gut_bacteria
+Reading topic ~gut_therapy_story
+
+----Reading file introduction.top
+Reading topic ~how_to_chat
+Reading topic ~where_were_you
+Reading topic ~introductions
+Reading topic ~howareyou_react
+Reading topic ~howzit
+Reading topic ~birth_react
+*** Warning- line 330 of introduction.top: Substitutes.txt changes UK to United+Kingdom anywhere in input
+
+----Reading file holidays.top
+Reading concept ~new_years
+Reading table tbl:~holiday
+Reading topic ~xholidaysystem
+Reading table tbl:holidayfavorites
+Reading topic ~april_fools
+Reading topic ~may_day
+Reading topic ~summer_solstice
+Reading topic ~birthdays
+Reading topic ~halloween
+Reading topic ~thanksgiving
+Reading topic ~christmas
+*** Warning- line 452 of holidays.top: Substitutes.txt changes Xmas to Christmas anywhere in input
+Reading topic ~new_years_eve
+Reading topic ~holidays
+*** Warning- line 771 of holidays.top: Substitutes.txt changes Xmas to Christmas anywhere in input
+
+----Reading file isabelmarant.top
+Reading topic ~isabel_marant
+
+----Reading file kitestory.top
+Reading topic ~kite_story
+
+----Reading file laws.top
+Reading topic ~laws
+
+----Reading file leshalles.top
+Reading topic ~les_halles
+
+----Reading file lightpollution.top
+Reading topic ~light_pollution
+*** Warning- line 4 of lightpollution.top: streetlamp is not a known word. Is it misspelled?
+*** Warning- line 4 of lightpollution.top: photopollution is not a known word. Is it misspelled?
+*** Warning- line 4 of lightpollution.top: skyglow is not a known word. Is it misspelled?
+
+----Reading file louvre.top
+Reading topic ~louvre
+
+----Reading file macaron.top
+Reading topic ~macarons
+
+----Reading file marais.top
+Reading topic ~marais
+Reading topic ~launch_party_story
+
+----Reading file museedorsay.top
+Reading topic ~musee_d'_orsay
+
+----Reading file notredame.top
+Reading topic ~notre_dame
+
+----Reading file ordering.top
+Reading topic ~ordering
+
+----Reading file parenting.top
+Reading topic ~parenting
+
+----Reading file parisair.top
+Reading topic ~paris_air
+
+----Reading file parisapartment.top
+Reading topic ~paris_apartment
+*** Warning- line 352 of parisapartment.top: flatmmate is not a known word. Is it misspelled?
+
+----Reading file parisballoon.top
+Reading topic ~paris_balloon
+
+----Reading file pariscafe.top
+Reading topic ~paris_cafes
+
+----Reading file parisdriving.top
+Reading topic ~paris_driving
+
+----Reading file parisjob.top
+Reading topic ~paris_job
+Reading topic ~friz_story
+
+----Reading file parislunch.top
+Reading topic ~paris_lunch
+
+----Reading file parisplages.top
+Reading topic ~paris_plages
+
+----Reading file parisrenovation.top
+Reading topic ~paris_renovation
+
+----Reading file paristrip.top
+Reading topic ~visiting_paris
+Reading topic ~paris_intern_story
+Reading topic ~paris_trip_story
+
+----Reading file parkour.top
+Reading topic ~parkour
+
+----Reading file perfume.top
+Reading topic ~perfume
+*** Warning- line 38 of perfume.top: offgassing is not a known word. Is it misspelled?
+
+----Reading file personalspace.top
+Reading topic ~personal_space
+
+----Reading file pickpockets.top
+Reading topic ~pickpockets
+
+----Reading file planche.top
+Reading topic ~planche
+
+----Reading file pompidou.top
+Reading topic ~pompidou
+
+----Reading file ringroads.top
+Reading topic ~ring_roads
+
+----Reading file sacrecoeur.top
+Reading topic ~sacre_coeur
+
+----Reading file segway.top
+Reading topic ~segway
+
+----Reading file seine.top
+Reading topic ~seine
+
+----Reading file sewer.top
+Reading topic ~sewers
+
+----Reading file skateboarding.top
+Reading topic ~skateboarding
+*** Warning- line 6 of skateboarding.top: wheelie is not a known word. Is it misspelled?
+
+----Reading file skinbacteria.top
+Reading topic ~skin_bacteria
+
+----Reading file slavery.top
+Reading topic ~slavery
+
+----Reading file smiling.top
+Reading topic ~smiling
+
+----Reading file smoking.top
+Reading topic ~smoking
+
+----Reading file sports.top
+Reading topic ~individual_sports
+*** Warning- line 4 of sports.top: badmington is not a known word. Is it misspelled?
+*** Warning- line 4 of sports.top: raquetball is not a known word. Is it misspelled?
+
+----Reading file stgermain.top
+Reading topic ~st_germain
+
+----Reading file storesecurity.top
+Reading topic ~store_security
+
+----Reading file sunglasses.top
+Reading topic ~sunglasses
+*** Warning- line 80 of sunglasses.top: Word polaroid only known in opposite case
+
+----Reading file sunset.top
+Reading topic ~sunsets
+
+----Reading file sushi.top
+Reading topic ~sushi
+*** Warning- line 4 of sushi.top: wasabe is not a known word. Is it misspelled?
+
+----Reading file teamsports.top
+Reading topic ~baseball
+Reading topic ~basketball
+Reading topic ~football
+Reading topic ~hockey
+*** Warning- line 64 of teamsports.top: goalee is not a known word. Is it misspelled?
+Reading topic ~soccer
+Reading topic ~team_sports
+Reading table tbl:sportsfavorites
+Reading table tbl:doyou
+Reading table tbl:howoften
+
+----Reading file technocrime.top
+Reading topic ~technocrime
+
+----Reading file tom.top
+Reading topic ~tom
+
+----Reading file tourdefrance.top
+Reading topic ~tour_de_france
+
+----Reading file trafficcircles.top
+Reading topic ~traffic_circles
+
+----Reading file treehouse.top
+Reading topic ~tree_houses
+Reading topic ~aerial_home_story
+
+----Reading file usedclothing.top
+Reading topic ~used_clothing
+
+----Reading file wakingup.top
+Reading topic ~waking_up
+*** Warning- line 91 of wakingup.top: Interjections.txt changes also> to ~emomutual at input end
+
+----Reading file water.top
+Reading topic ~water
+*** Warning- line 4 of water.top: Word h2o only known in opposite case
+
+----Reading file whales.top
+Reading topic ~whales
+
+----Reading file wishes.top
+Reading topic ~wishes
+
+----Reading file zoo.top
+Reading topic ~zoos
+*** Warning- line 110 of zoo.top: Spelling.txt changes kitty to kitten anywhere in input
+*** Warning- line 208 of zoo.top: Substitutes.txt changes fave to favorite anywhere in input
+Reading topic ~zoo_history_story
+
+----Reading file gesture.top
+Reading concept ~o7app
+Reading topic ~xmoodinput
+Reading topic ~smileseries
+Reading topic ~tongueseries
+Reading topic ~tiredseries
+Reading topic ~pokestart
+Reading topic ~xgestureinput
+*** Warning- line 257 of gesture.top: gotcookie is not a known word. Is it misspelled?
+*** Warning- line 261 of gesture.top: nocookie is not a known word. Is it misspelled?
+Reading topic ~xoutputgestures
+Reading topic ~xoutfit7_gestures
+Reading topic ~xemoticons
+
+----Reading file beangry.top
+Reading outputmacro: ^updateangerlevel
+Reading topic ~i_am_angry
+Reading topic ~pokesignadult
+Reading topic ~pokesignchild
+Reading topic ~lowangerpoke
+Reading topic ~mediumangerpoke
+Reading topic ~hiangerpokechild
+Reading topic ~hiangerpokeadult
+Reading topic ~lowangerinsult
+Reading topic ~mediumangerinsultchild
+Reading topic ~mediumangerinsultadult
+Reading topic ~hiangerinsultchild
+Reading topic ~hiangerinsultadult
+Reading topic ~level1angry
+Reading topic ~level2angry
+
+----Reading file gifts0.top
+Reading concept ~drinkabbreviation
+Reading concept ~drinklist
+Reading concept ~invertdrinklist
+Reading table tbl:~abbreviation
+Reading topic ~ordering_drinks
+Reading topic ~xaccessory
+Reading topic ~xwardrobe_change
+Reading topic ~xwheel
+Reading topic ~xgifts_specific
+*** Warning- line 718 of gifts0.top: catbook is not a known word. Is it misspelled?
+Reading topic ~xgifts
+
+----Reading file fortunecookie.top
+Reading concept ~fortunecookie
+Reading topic ~xnofortunecookie
+Reading concept ~excrement
+*** Warning- line 38 of fortunecookie.top: doodoo is not a known word. Is it misspelled?
+Reading topic ~xfortunecookie
+*** Warning- line 2 of missingsets.txt: Undefined set or topic ~xad_control line 156 in functions.top
+*** Warning- line 696 of missingsets.txt: Undefined set or topic ~game_names line 6 in game.top
+*** Warning- line 722 of missingsets.txt: Undefined set or topic ~ad_voiceapp line 496 in singing.top
+*** Warning- line 759 of missingsets.txt: Undefined set or topic ~ad_tfshop line 100 in keywordless.top
+*** Warning- line 770 of missingsets.txt: Undefined set or topic ~xgifts1 line 596 in specialty.top
+*** Warning- line 891 of missingsets.txt: Undefined set or topic ~ad_banners1 line 227 in hubs.top
+*** Warning- line 185 of missingLabel.txt: Missing cross-topic label ~AD_VOICEAPP.VOICEAPP for reuse in File: singing.top Line: 496
+*** Warning- line 186 of missingLabel.txt: Missing cross-topic label ~AD_VOICEAPP.VOICEAPP for reuse in File: singing.top Line: 501
+*** Warning- line 246 of missingLabel.txt: Missing cross-topic label ~AD_TFSHOP.TFS for reuse in File: keywordless.top Line: 100
+
+WARNING SUMMARY: 
+  line 0 of math.top: Missing file RAWDATA/PRIVATE/ANGELA/GENERAL/math.top
+
+  line 0 of comparison.top: Missing file RAWDATA/PRIVATE/ANGELA/GENERAL/comparison.top
+
+2 topic files were missing.
+116 spelling warnings, 5 case warnings, 26 substitution warnings,  and 162 more serious warnings
+    
+
+Finished compile
+

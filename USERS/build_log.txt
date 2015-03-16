@@ -1,0 +1,3 @@
+﻿Bad UTF-8  z ( CURRENCY )  at 329 in other.txt
+Bad UTF-8  z ( CURRENCY )  at 330 in other.txt
+Bad UTF-8  z ( CURRENCY )  at 331 in other.txt
